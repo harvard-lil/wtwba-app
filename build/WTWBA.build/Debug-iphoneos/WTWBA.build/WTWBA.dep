@@ -1,8 +1,3 @@
-7541b3b7ca26a98ef296d5bec6322061 f85b9a3a8eb800a74dc9254810bfef77 ffffffffffffffffffffffffffffffff 476 /Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app
-00000000000000000000000000000000 cc2e956bcfeaa4f18815c3b10414922f ffffffffffffffffffffffffffffffff 102 /Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app.dSYM
-5942e69031ebaffbbbe669599efc61fc ab07d627a07a081500591f65f437c43f ffffffffffffffffffffffffffffffff 515976 /Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app/WTWBA
-fc7fa2d6105a21c6df32ff28599cd5d6 08c309a8e399b1cf70bbfe6473ee8699 ffffffffffffffffffffffffffffffff 253832 /Users/caina/Desktop/WTWBA/build/WTWBA.build/Debug-iphoneos/WTWBA.build/Objects-normal/armv7/WTWBA
-04e768ec5af9a502c7c751f63e4dd4cf a919250298d19af0d3a839e38ac3e67c ffffffffffffffffffffffffffffffff 254872 /Users/caina/Desktop/WTWBA/build/WTWBA.build/Debug-iphoneos/WTWBA.build/Objects-normal/armv6/WTWBA
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 57392 /Users/caina/Desktop/WTWBA/build/WTWBA.build/Debug-iphoneos/WTWBA.build/Objects-normal/armv7/ReaderSampleViewController.o
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 57024 /Users/caina/Desktop/WTWBA/build/WTWBA.build/Debug-iphoneos/WTWBA.build/Objects-normal/armv6/ReaderSampleViewController.o
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 51492 /Users/caina/Desktop/WTWBA/build/WTWBA.build/Debug-iphoneos/WTWBA.build/Objects-normal/armv7/ReaderSampleAppDelegate.o
@@ -10,6 +5,8 @@ ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffff
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 4024 /Users/caina/Desktop/WTWBA/build/WTWBA.build/Debug-iphoneos/WTWBA.build/Objects-normal/armv7/main.o
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 3964 /Users/caina/Desktop/WTWBA/build/WTWBA.build/Debug-iphoneos/WTWBA.build/Objects-normal/armv6/main.o
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 416 /Users/caina/Desktop/WTWBA/build/WTWBA.build/Debug-iphoneos/WTWBA.build/WTWBA.xcent
+00000000000000000000000000000000 cc2e956bcfeaa4f18815c3b10414922f ffffffffffffffffffffffffffffffff 102 /Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app.dSYM
+7541b3b7ca26a98ef296d5bec6322061 f85b9a3a8eb800a74dc9254810bfef77 ffffffffffffffffffffffffffffffff 476 /Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 7356 /Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app/embedded.mobileprovision
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 1468 /Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app/zbar-samples.png
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 23139 /Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app/zbar-helpicons.png
@@ -18,7 +15,10 @@ ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffff
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 2044 /Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app/en.lproj/ReaderSampleViewController.nib
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 1133 /Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app/en.lproj/MainWindow.nib
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 42 /Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app/en.lproj/InfoPlist.strings
+5942e69031ebaffbbbe669599efc61fc ab07d627a07a081500591f65f437c43f ffffffffffffffffffffffffffffffff 527152 /Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app/WTWBA
+fc7fa2d6105a21c6df32ff28599cd5d6 08c309a8e399b1cf70bbfe6473ee8699 ffffffffffffffffffffffffffffffff 253832 /Users/caina/Desktop/WTWBA/build/WTWBA.build/Debug-iphoneos/WTWBA.build/Objects-normal/armv7/WTWBA
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 8562700 /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-hjmiwvxxsrolbagbxemcpvxumlkg/ReaderSample-Prefix.pch.gch
+04e768ec5af9a502c7c751f63e4dd4cf a919250298d19af0d3a839e38ac3e67c ffffffffffffffffffffffffffffffff 254872 /Users/caina/Desktop/WTWBA/build/WTWBA.build/Debug-iphoneos/WTWBA.build/Objects-normal/armv6/WTWBA
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 8067084 /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-ecifgsxzhblfcseklskcpdmyiaxw/ReaderSample-Prefix.pch.gch
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 8 /Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app/PkgInfo
 ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 1001 /Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app/Info.plist

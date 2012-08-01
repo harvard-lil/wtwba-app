@@ -1,7 +1,7 @@
 TWTWBA
 v7
 r0
-t365521386.326266
+t365527781.022812
 cCheck dependencies
 cCpResource build/Debug-iphoneos/WTWBA.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
 cProcessInfoPlistFile /Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app/Info.plist ReaderSample/WTWBA-Info.plist
@@ -1806,7 +1806,7 @@ s485
 
 N/Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app/WTWBA
 t1343828585
-s515976
+s527152
 
 N/Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app/embedded.mobileprovision
 t1343766793
@@ -1922,7 +1922,7 @@ s1190
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies365521385#365521385#0(0"0(0#1#0"8639693152#0"0#
+lSLF07#2@18"Check dependencies365527779#365527779#0(0"0(0#1#0"8623549728#0"0#
 
 CCodeSign "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/WTWBA.app"
 s365520608.253016
@@ -1942,12 +1942,13 @@ x/Users/caina/Desktop/ReaderSample2/build/Debug-iphoneos/WTWBA.app
 lSLF07#2@39"CodeSign build/Debug-iphoneos/WTWBA.app365521066#365521067#0(0"0(0#0#65"/Users/caina/Desktop/ReaderSample2/build/Debug-iphoneos/WTWBA.app8624277056#623"    cd /Users/caina/Desktop/ReaderSample2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Annie Jo Cain (NWAHBFPHSN)" --resource-rules=/Users/caina/Desktop/ReaderSample2/build/Debug-iphoneos/WTWBA.app/ResourceRules.plist --entitlements /Users/caina/Desktop/ReaderSample2/build/WTWBA.build/Debug-iphoneos/WTWBA.build/WTWBA.xcent /Users/caina/Desktop/ReaderSample2/build/Debug-iphoneos/WTWBA.app0#
 
 CCodeSign /Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app
-s365521386.070451
-e365521386.326227
+s365527779.786994
+e365527781.022770
 r1
 xCodeSign
 x/Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app
-lSLF07#2@39"CodeSign build/Debug-iphoneos/WTWBA.app365521386#365521386#0(0"0(0#0#57"/Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app8633551904#591"    cd /Users/caina/Desktop/WTWBA    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Annie Jo Cain (NWAHBFPHSN)" --resource-rules=/Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app/ResourceRules.plist --entitlements /Users/caina/Desktop/WTWBA/build/WTWBA.build/Debug-iphoneos/WTWBA.build/WTWBA.xcent /Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app0#
+o/Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app: replacing existing signature
+lSLF07#2@39"CodeSign build/Debug-iphoneos/WTWBA.app365527779#365527781#0(88"/Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app: replacing existing signature0(0#0#57"/Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app8633973120#591"    cd /Users/caina/Desktop/WTWBA    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Annie Jo Cain (NWAHBFPHSN)" --resource-rules=/Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app/ResourceRules.plist --entitlements /Users/caina/Desktop/WTWBA/build/WTWBA.build/Debug-iphoneos/WTWBA.build/WTWBA.xcent /Users/caina/Desktop/WTWBA/build/Debug-iphoneos/WTWBA.app0#
 
 CCompileC build/WTWBA.build/Debug-iphoneos/WTWBA.build/Objects-normal/armv6/ReaderSampleAppDelegate.o "/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleAppDelegate.m" normal armv6 objective-c com.apple.compilers.llvmgcc42
 s365459590.129872
