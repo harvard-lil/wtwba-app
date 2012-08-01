@@ -1,0 +1,1555 @@
+TReaderSample
+v7
+r0
+t365458908.773041
+cCheck dependencies
+cCpResource build/Debug-iphoneos/ReaderSample.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/Info.plist" ReaderSample/ReaderSample-Info.plist
+cProcessPCH /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-ejcuwvzkrjrizzeiknjzyappuahd/ReaderSample-Prefix.pch.gch ReaderSample/ReaderSample-Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42
+cProcessPCH /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-binlyjorsdcpidbhojyclgjirdtl/ReaderSample-Prefix.pch.gch ReaderSample/ReaderSample-Prefix.pch normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/main.o "/Users/caina/Desktop/ReaderSample 2/ReaderSample/main.m" normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSampleAppDelegate.o "/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleAppDelegate.m" normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSampleViewController.o "/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleViewController.m" normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/main.o "/Users/caina/Desktop/ReaderSample 2/ReaderSample/main.m" normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSampleAppDelegate.o "/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleAppDelegate.m" normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSampleViewController.o "/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleViewController.m" normal armv7 objective-c com.apple.compilers.llvmgcc42
+cLd "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSample" normal armv6
+cLd "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSample" normal armv7
+cCreateUniversalBinary "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/ReaderSample" normal "armv6 armv7"
+cGenerateDSYMFile "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app.dSYM" "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/ReaderSample"
+cCopyStringsFile "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/en.lproj/InfoPlist.strings" ReaderSample/en.lproj/InfoPlist.strings
+cCompileXIB "/Users/caina/Desktop/ReaderSample 2/ReaderSample/en.lproj/MainWindow.xib"
+cCompileXIB "/Users/caina/Desktop/ReaderSample 2/ReaderSample/en.lproj/ReaderSampleViewController.xib"
+cCopyPNGFile "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/zbar-back.png" ZBarSDK/Resources/zbar-back.png
+cCpResource build/Debug-iphoneos/ReaderSample.app/zbar-help.html ZBarSDK/Resources/zbar-help.html
+cCopyPNGFile "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/zbar-helpicons.png" ZBarSDK/Resources/zbar-helpicons.png
+cCopyPNGFile "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/zbar-samples.png" ZBarSDK/Resources/zbar-samples.png
+cProcessProductPackaging "/Users/caina/Library/MobileDevice/Provisioning Profiles/B6B1D7BC-C5B9-4702-BB0A-578F6CCD721E.mobileprovision" "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/embedded.mobileprovision"
+cTouch "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample.xcent"
+cCodeSign "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC11C42000000000020BF30
+t1287724098
+s2146096
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004CC10EEE00000000002C9710
+t1287720686
+s2922256
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC10FA70000000000300DE0
+t1287720871
+s3149280
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC10F8D000000000000046B
+t1287720845
+s1131
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004CC10DCA00000000000004FE
+t1287720394
+s1278
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000004CC110B500000000000E44B0
+t1287721141
+s935088
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c000000004CC110220000000000030DE0
+t1287720994
+s200160
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004CC110680000000000094AF0
+t1287721064
+s609008
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC1127D0000000000267530
+t1287721597
+s2520368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004CC10E6A0000000000001A58
+t1287720554
+s6744
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004CC10E7900000000000B0C10
+t1287720569
+s723984
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/Availability.h
+c000000004CB3FBB80000000000001ADD
+t1286863800
+s6877
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/assert.h
+c000000004CB3E4B80000000000000DCB
+t1286857912
+s3531
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/stdio.h
+c000000004CB3E4B800000000000040AC
+t1286857912
+s16556
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4B80000000000002DF5
+t1286857912
+s11765
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/libiconv.dylib
+c000000004CC1056200000000001FB100
+t1287718242
+s2076928
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/Debug-iphoneos/libRestKitCoreData.a
+c0000000050182303000000000003F0A0
+t1343759107
+s258208
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/Debug-iphoneos/libRestKitJSONParserYAJL.a
+c00000000501823020000000000072778
+t1343759106
+s468856
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/Debug-iphoneos/libRestKitNetwork.a
+c00000000501823010000000000095848
+t1343759105
+s612424
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/Debug-iphoneos/libRestKitObjectMapping.a
+c000000005018230100000000000766C0
+t1343759105
+s485056
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/Debug-iphoneos/libRestKitSupport.a
+c00000000501823020000000000016F78
+t1343759106
+s94072
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/CoreData/CoreData.h
+c00000000501823020000000000000145
+t1343759106
+s325
+i<CoreData/CoreData.h>
+i"../ObjectMapping/ObjectMapping.h"
+i"RKManagedObject.h"
+i"RKManagedObjectStore.h"
+i"RKObjectSeeder.h"
+i"RKManagedObjectCache.h"
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/CoreData/RKManagedObject.h
+c00000000501823020000000000001087
+t1343759106
+s4231
+i<Foundation/Foundation.h>
+i"../ObjectMapping/ObjectMapping.h"
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/CoreData/RKManagedObjectCache.h
+c000000005018230200000000000001FB
+t1343759106
+s507
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/CoreData/RKManagedObjectStore.h
+c00000000501823020000000000000934
+t1343759106
+s2356
+i<CoreData/CoreData.h>
+i"RKManagedObject.h"
+i"RKManagedObjectCache.h"
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/CoreData/RKObjectSeeder.h
+c00000000501823020000000000000468
+t1343759106
+s1128
+i"../ObjectMapping/ObjectMapping.h"
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/Network/NSDictionary+RKRequestSerialization.h
+c000000005018230000000000000001A0
+t1343759104
+s416
+i<Foundation/Foundation.h>
+i"RKRequestSerializable.h"
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/Network/Network.h
+c00000000501823000000000000000125
+t1343759104
+s293
+i"RKClient.h"
+i"RKRequest.h"
+i"RKResponse.h"
+i"RKRequestSerializable.h"
+i"RKReachabilityObserver.h"
+i"RKRequestQueue.h"
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/Network/RKClient.h
+c00000000501823000000000000001C5C
+t1343759104
+s7260
+i"RKRequest.h"
+i"RKParams.h"
+i"RKResponse.h"
+i"NSDictionary+RKRequestSerialization.h"
+i"RKReachabilityObserver.h"
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/Network/RKJSONSerialization.h
+c00000000501823000000000000000267
+t1343759104
+s615
+i"RKRequestSerializable.h"
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/Network/RKParams.h
+c0000000050182300000000000000095A
+t1343759104
+s2394
+i<Foundation/Foundation.h>
+i"RKRequestSerializable.h"
+i"RKParamsAttachment.h"
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/Network/RKParamsAttachment.h
+c00000000501823000000000000000879
+t1343759104
+s2169
+i<Foundation/Foundation.h>
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/Network/RKReachabilityObserver.h
+c00000000501823000000000000000580
+t1343759104
+s1408
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/Network/RKRequest.h
+c00000000501823000000000000001272
+t1343759104
+s4722
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+i"RKRequestSerializable.h"
+i"RKJSONSerialization.h"
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/Network/RKRequestQueue.h
+c0000000050182300000000000000057A
+t1343759104
+s1402
+i<Foundation/Foundation.h>
+i"RKRequest.h"
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/Network/RKRequestSerializable.h
+c000000005018230000000000000005FC
+t1343759104
+s1532
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/Network/RKResponse.h
+c00000000501823000000000000001030
+t1343759104
+s4144
+i<Foundation/Foundation.h>
+i"RKRequest.h"
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/ObjectMapping/ObjectMapping.h
+c000000005018230100000000000000D5
+t1343759105
+s213
+i"RKObjectManager.h"
+i"RKObject.h"
+i"RKObjectLoader.h"
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/ObjectMapping/RKDynamicRouter.h
+c00000000501823010000000000000513
+t1343759105
+s1299
+i"RKRouter.h"
+i"RKObjectMappable.h"
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/ObjectMapping/RKObject.h
+c0000000050182301000000000000011F
+t1343759105
+s287
+i"RKObjectMappable.h"
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/ObjectMapping/RKObjectLoader.h
+c00000000501823010000000000000D80
+t1343759105
+s3456
+i<CoreData/CoreData.h>
+i"../Network/Network.h"
+i"RKObjectMapper.h"
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/ObjectMapping/RKObjectManager.h
+c00000000501823010000000000001FD5
+t1343759105
+s8149
+i"../Network/Network.h"
+i"RKObjectMapper.h"
+i"RKObjectLoader.h"
+i"RKDynamicRouter.h"
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/ObjectMapping/RKObjectMappable.h
+c00000000501823010000000000000AFD
+t1343759105
+s2813
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/ObjectMapping/RKObjectMapper.h
+c000000005018230100000000000014A0
+t1343759105
+s5280
+i<Foundation/Foundation.h>
+i"RKObjectMappable.h"
+i"RKObjectPropertyInspector.h"
+i"../Support/RKParser.h"
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/ObjectMapping/RKObjectPropertyInspector.h
+c000000005018230100000000000001BC
+t1343759105
+s444
+i<Foundation/Foundation.h>
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/ObjectMapping/RKRouter.h
+c000000005018230100000000000002F3
+t1343759105
+s755
+i"../Network/Network.h"
+i"RKObjectMappable.h"
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/RestKit.h
+c000000005018230300000000000000E3
+t1343759107
+s227
+i"Network/Network.h"
+i"Support/Support.h"
+i"ObjectMapping/ObjectMapping.h"
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/Support/Errors.h
+c00000000501823010000000000000146
+t1343759105
+s326
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/Support/NSDictionary+RKAdditions.h
+c00000000501823010000000000000234
+t1343759105
+s564
+i<Foundation/Foundation.h>
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/Support/RKParser.h
+c0000000050182301000000000000024A
+t1343759105
+s586
+
+N/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/RestKit/Support/Support.h
+c000000005018230100000000000000BB
+t1343759105
+s187
+i"Errors.h"
+i"NSDictionary+RKAdditions.h"
+
+N/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSample-Prefix.pch
+c000000004E4021680000000000000189
+t1312825704
+s393
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"ZBarSDK.h"
+
+N/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleAppDelegate.h
+c000000004E4021680000000000000177
+t1312825704
+s375
+i<UIKit/UIKit.h>
+
+N/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleAppDelegate.m
+c000000004E402168000000000000093A
+t1312825704
+s2362
+i"ReaderSampleAppDelegate.h"
+i"ReaderSampleViewController.h"
+
+N/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleViewController.h
+c000000004E40216800000000000001CF
+t1312825704
+s463
+i<UIKit/UIKit.h>
+
+N/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleViewController.m
+c0000000050183E5B0000000000000A44
+t1343766107
+s2628
+i"ReaderSampleViewController.h"
+i<RestKit/RestKit.h>
+i<RestKit/CoreData/CoreData.h>
+
+N/Users/caina/Desktop/ReaderSample 2/ReaderSample/en.lproj/InfoPlist.strings
+c000000004E402168000000000000002D
+t1312825704
+s45
+
+N/Users/caina/Desktop/ReaderSample 2/ReaderSample/en.lproj/MainWindow.xib
+c000000004E4021680000000000004E55
+t1312825704
+s20053
+
+N/Users/caina/Desktop/ReaderSample 2/ReaderSample/en.lproj/ReaderSampleViewController.xib
+c000000004FB65A330000000000006069
+t1337350707
+s24681
+
+N/Users/caina/Desktop/ReaderSample 2/ReaderSample/main.m
+c000000004E4021680000000000000127
+t1312825704
+s295
+i<UIKit/UIKit.h>
+
+N/Users/caina/Desktop/ReaderSample 2/ZBarSDK/Headers/ZBarSDK/ZBarCameraSimulator.h
+c000000004E40215E000000000000066A
+t1312825694
+s1642
+
+N/Users/caina/Desktop/ReaderSample 2/ZBarSDK/Headers/ZBarSDK/ZBarCaptureReader.h
+c000000004E40215E0000000000000EA0
+t1312825694
+s3744
+i<CoreGraphics/CoreGraphics.h>
+i"ZBarImageScanner.h"
+
+N/Users/caina/Desktop/ReaderSample 2/ZBarSDK/Headers/ZBarSDK/ZBarHelpController.h
+c000000004E40215E00000000000007B2
+t1312825694
+s1970
+i<UIKit/UIKit.h>
+
+N/Users/caina/Desktop/ReaderSample 2/ZBarSDK/Headers/ZBarSDK/ZBarImage.h
+c000000004E40215E0000000000000905
+t1312825694
+s2309
+i<UIKit/UIKit.h>
+i"zbar.h"
+i"ZBarSymbol.h"
+
+N/Users/caina/Desktop/ReaderSample 2/ZBarSDK/Headers/ZBarSDK/ZBarImageScanner.h
+c000000004E40215E00000000000006AB
+t1312825694
+s1707
+i<Foundation/Foundation.h>
+i"zbar.h"
+i"ZBarImage.h"
+
+N/Users/caina/Desktop/ReaderSample 2/ZBarSDK/Headers/ZBarSDK/ZBarReaderController.h
+c000000004E40215E000000000000145B
+t1312825694
+s5211
+i<UIKit/UIKit.h>
+i"ZBarImageScanner.h"
+
+N/Users/caina/Desktop/ReaderSample 2/ZBarSDK/Headers/ZBarSDK/ZBarReaderView.h
+c000000004E40215E00000000000011E1
+t1312825694
+s4577
+i<UIKit/UIKit.h>
+i"ZBarImageScanner.h"
+
+N/Users/caina/Desktop/ReaderSample 2/ZBarSDK/Headers/ZBarSDK/ZBarReaderViewController.h
+c000000004E40215E00000000000015ED
+t1312825694
+s5613
+i<UIKit/UIKit.h>
+i"ZBarReaderController.h"
+
+N/Users/caina/Desktop/ReaderSample 2/ZBarSDK/Headers/ZBarSDK/ZBarSDK.h
+c000000004E40215F0000000000000555
+t1312825695
+s1365
+i"zbar.h"
+i"ZBarSymbol.h"
+i"ZBarImage.h"
+i"ZBarImageScanner.h"
+i"ZBarReaderView.h"
+i"ZBarReaderViewController.h"
+i"ZBarReaderController.h"
+i"ZBarCaptureReader.h"
+i"ZBarHelpController.h"
+i"ZBarCameraSimulator.h"
+
+N/Users/caina/Desktop/ReaderSample 2/ZBarSDK/Headers/ZBarSDK/ZBarSymbol.h
+c000000004E40215F0000000000000957
+t1312825695
+s2391
+i<Foundation/Foundation.h>
+i<CoreGraphics/CoreGraphics.h>
+i"zbar.h"
+
+N/Users/caina/Desktop/ReaderSample 2/ZBarSDK/Headers/ZBarSDK/zbar.h
+c000000004E40215F000000000000D1C6
+t1312825695
+s53702
+i"zbar/Exception.h"
+i"zbar/Decoder.h"
+i"zbar/Scanner.h"
+i"zbar/Symbol.h"
+i"zbar/Image.h"
+i"zbar/ImageScanner.h"
+i"zbar/Video.h"
+i"zbar/Window.h"
+i"zbar/Processor.h"
+
+N/Users/caina/Desktop/ReaderSample 2/ZBarSDK/Headers/ZBarSDK/zbar/Decoder.h
+c000000004E40215F0000000000001630
+t1312825695
+s5680
+i<string>
+
+N/Users/caina/Desktop/ReaderSample 2/ZBarSDK/Headers/ZBarSDK/zbar/Exception.h
+c000000004E40215F0000000000001210
+t1312825695
+s4624
+i<exception>
+i<new>
+
+N/Users/caina/Desktop/ReaderSample 2/ZBarSDK/Headers/ZBarSDK/zbar/Image.h
+c000000004E40215F00000000000021B5
+t1312825695
+s8629
+i<assert.h>
+i<iterator>
+i"Symbol.h"
+i"Exception.h"
+
+N/Users/caina/Desktop/ReaderSample 2/ZBarSDK/Headers/ZBarSDK/zbar/ImageScanner.h
+c000000004E40215F0000000000000EAB
+t1312825695
+s3755
+i"Image.h"
+
+N/Users/caina/Desktop/ReaderSample 2/ZBarSDK/Headers/ZBarSDK/zbar/Processor.h
+c000000004E40215F0000000000001B3B
+t1312825695
+s6971
+i"Exception.h"
+i"Image.h"
+
+N/Users/caina/Desktop/ReaderSample 2/ZBarSDK/Headers/ZBarSDK/zbar/Scanner.h
+c000000004E40215F0000000000001065
+t1312825695
+s4197
+i<stdio.h>
+
+N/Users/caina/Desktop/ReaderSample 2/ZBarSDK/Headers/ZBarSDK/zbar/Symbol.h
+c000000004E40215F000000000000307A
+t1312825695
+s12410
+i<stdlib.h>
+i<string>
+i<ostream>
+i<assert.h>
+
+N/Users/caina/Desktop/ReaderSample 2/ZBarSDK/Headers/ZBarSDK/zbar/Video.h
+c000000004E40215F000000000000115D
+t1312825695
+s4445
+i"Image.h"
+
+N/Users/caina/Desktop/ReaderSample 2/ZBarSDK/Headers/ZBarSDK/zbar/Window.h
+c000000004E40215F0000000000000E9D
+t1312825695
+s3741
+i"Image.h"
+
+N/Users/caina/Desktop/ReaderSample 2/ZBarSDK/Resources/zbar-back.png
+c000000004E40215F000000000000013F
+t1312825695
+s319
+
+N/Users/caina/Desktop/ReaderSample 2/ZBarSDK/Resources/zbar-help.html
+c000000004E40215F0000000000000D37
+t1312825695
+s3383
+
+N/Users/caina/Desktop/ReaderSample 2/ZBarSDK/Resources/zbar-helpicons.png
+c000000004E40215F00000000000047AE
+t1312825695
+s18350
+
+N/Users/caina/Desktop/ReaderSample 2/ZBarSDK/Resources/zbar-samples.png
+c000000004E40215F000000000000049D
+t1312825695
+s1181
+
+N/Users/caina/Desktop/ReaderSample 2/ZBarSDK/libzbar.a
+c000000004E40215E00000000002E5F0C
+t1312825694
+s3038988
+
+N/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app
+t1343766108
+s476
+
+N/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app.dSYM
+t1343766108
+s102
+
+N/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/Info.plist
+t1343749575
+s1029
+
+N/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/PkgInfo
+t1343749575
+s8
+
+N/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/ReaderSample
+t1343766108
+s1037540
+
+N/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/ResourceRules.plist
+t1343749575
+s485
+
+N/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/embedded.mobileprovision
+t1343749577
+s7356
+
+N/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/en.lproj/InfoPlist.strings
+t1343749577
+s42
+
+N/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/en.lproj/MainWindow.nib
+t1343749577
+s1133
+
+N/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/en.lproj/ReaderSampleViewController.nib
+t1343749577
+s2060
+
+N/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/zbar-back.png
+t1343749577
+s319
+
+N/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/zbar-help.html
+t1343749576
+s3383
+
+N/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/zbar-helpicons.png
+t1343749577
+s23139
+
+N/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/zbar-samples.png
+t1343749577
+s1468
+
+N/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSample
+t1343766108
+s522548
+
+N/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSample.LinkFileList
+c0000000050182303000000000000019A
+t1343759107
+s410
+
+N/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSampleAppDelegate.o
+t1343759107
+s51320
+
+N/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSampleViewController.o
+t1343766107
+s57040
+
+N/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/main.o
+t1343759107
+s3968
+
+N/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSample
+t1343766108
+s509156
+
+N/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSample.LinkFileList
+c0000000050182303000000000000019A
+t1343759107
+s410
+
+N/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSampleAppDelegate.o
+t1343759107
+s51496
+
+N/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSampleViewController.o
+t1343766107
+s57392
+
+N/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/main.o
+t1343759107
+s4028
+
+N/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample.xcent
+t1343749577
+s430
+
+N/Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSample-Prefix.pch
+c000000004E4021680000000000000189
+t1312825704
+s393
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"ZBarSDK.h"
+
+N/Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSampleAppDelegate.h
+c000000004E4021680000000000000177
+t1312825704
+s375
+i<UIKit/UIKit.h>
+
+N/Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSampleAppDelegate.m
+c000000004E402168000000000000093A
+t1312825704
+s2362
+i"ReaderSampleAppDelegate.h"
+i"ReaderSampleViewController.h"
+
+N/Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSampleViewController.h
+c000000004E40216800000000000001CF
+t1312825704
+s463
+i<UIKit/UIKit.h>
+
+N/Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSampleViewController.m
+c000000004E4021680000000000000749
+t1312825704
+s1865
+i"ReaderSampleViewController.h"
+
+N/Users/caina/Desktop/ReaderSample/ReaderSample/en.lproj/InfoPlist.strings
+c000000004E402168000000000000002D
+t1312825704
+s45
+
+N/Users/caina/Desktop/ReaderSample/ReaderSample/en.lproj/MainWindow.xib
+c000000004E4021680000000000004E55
+t1312825704
+s20053
+
+N/Users/caina/Desktop/ReaderSample/ReaderSample/en.lproj/ReaderSampleViewController.xib
+c000000004FB65A330000000000006069
+t1337350707
+s24681
+
+N/Users/caina/Desktop/ReaderSample/ReaderSample/main.m
+c000000004E4021680000000000000127
+t1312825704
+s295
+i<UIKit/UIKit.h>
+
+N/Users/caina/Desktop/ReaderSample/ZBarSDK/Headers/ZBarSDK/ZBarCameraSimulator.h
+c000000004E40215E000000000000066A
+t1312825694
+s1642
+
+N/Users/caina/Desktop/ReaderSample/ZBarSDK/Headers/ZBarSDK/ZBarCaptureReader.h
+c000000004E40215E0000000000000EA0
+t1312825694
+s3744
+i<CoreGraphics/CoreGraphics.h>
+i"ZBarImageScanner.h"
+
+N/Users/caina/Desktop/ReaderSample/ZBarSDK/Headers/ZBarSDK/ZBarHelpController.h
+c000000004E40215E00000000000007B2
+t1312825694
+s1970
+i<UIKit/UIKit.h>
+
+N/Users/caina/Desktop/ReaderSample/ZBarSDK/Headers/ZBarSDK/ZBarImage.h
+c000000004E40215E0000000000000905
+t1312825694
+s2309
+i<UIKit/UIKit.h>
+i"zbar.h"
+i"ZBarSymbol.h"
+
+N/Users/caina/Desktop/ReaderSample/ZBarSDK/Headers/ZBarSDK/ZBarImageScanner.h
+c000000004E40215E00000000000006AB
+t1312825694
+s1707
+i<Foundation/Foundation.h>
+i"zbar.h"
+i"ZBarImage.h"
+
+N/Users/caina/Desktop/ReaderSample/ZBarSDK/Headers/ZBarSDK/ZBarReaderController.h
+c000000004E40215E000000000000145B
+t1312825694
+s5211
+i<UIKit/UIKit.h>
+i"ZBarImageScanner.h"
+
+N/Users/caina/Desktop/ReaderSample/ZBarSDK/Headers/ZBarSDK/ZBarReaderView.h
+c000000004E40215E00000000000011E1
+t1312825694
+s4577
+i<UIKit/UIKit.h>
+i"ZBarImageScanner.h"
+
+N/Users/caina/Desktop/ReaderSample/ZBarSDK/Headers/ZBarSDK/ZBarReaderViewController.h
+c000000004E40215E00000000000015ED
+t1312825694
+s5613
+i<UIKit/UIKit.h>
+i"ZBarReaderController.h"
+
+N/Users/caina/Desktop/ReaderSample/ZBarSDK/Headers/ZBarSDK/ZBarSDK.h
+c000000004E40215F0000000000000555
+t1312825695
+s1365
+i"zbar.h"
+i"ZBarSymbol.h"
+i"ZBarImage.h"
+i"ZBarImageScanner.h"
+i"ZBarReaderView.h"
+i"ZBarReaderViewController.h"
+i"ZBarReaderController.h"
+i"ZBarCaptureReader.h"
+i"ZBarHelpController.h"
+i"ZBarCameraSimulator.h"
+
+N/Users/caina/Desktop/ReaderSample/ZBarSDK/Headers/ZBarSDK/ZBarSymbol.h
+c000000004E40215F0000000000000957
+t1312825695
+s2391
+i<Foundation/Foundation.h>
+i<CoreGraphics/CoreGraphics.h>
+i"zbar.h"
+
+N/Users/caina/Desktop/ReaderSample/ZBarSDK/Headers/ZBarSDK/zbar.h
+c000000004E40215F000000000000D1C6
+t1312825695
+s53702
+i"zbar/Exception.h"
+i"zbar/Decoder.h"
+i"zbar/Scanner.h"
+i"zbar/Symbol.h"
+i"zbar/Image.h"
+i"zbar/ImageScanner.h"
+i"zbar/Video.h"
+i"zbar/Window.h"
+i"zbar/Processor.h"
+
+N/Users/caina/Desktop/ReaderSample/ZBarSDK/Headers/ZBarSDK/zbar/Decoder.h
+c000000004E40215F0000000000001630
+t1312825695
+s5680
+i<string>
+
+N/Users/caina/Desktop/ReaderSample/ZBarSDK/Headers/ZBarSDK/zbar/Exception.h
+c000000004E40215F0000000000001210
+t1312825695
+s4624
+i<exception>
+i<new>
+
+N/Users/caina/Desktop/ReaderSample/ZBarSDK/Headers/ZBarSDK/zbar/Image.h
+c000000004E40215F00000000000021B5
+t1312825695
+s8629
+i<assert.h>
+i<iterator>
+i"Symbol.h"
+i"Exception.h"
+
+N/Users/caina/Desktop/ReaderSample/ZBarSDK/Headers/ZBarSDK/zbar/ImageScanner.h
+c000000004E40215F0000000000000EAB
+t1312825695
+s3755
+i"Image.h"
+
+N/Users/caina/Desktop/ReaderSample/ZBarSDK/Headers/ZBarSDK/zbar/Processor.h
+c000000004E40215F0000000000001B3B
+t1312825695
+s6971
+i"Exception.h"
+i"Image.h"
+
+N/Users/caina/Desktop/ReaderSample/ZBarSDK/Headers/ZBarSDK/zbar/Scanner.h
+c000000004E40215F0000000000001065
+t1312825695
+s4197
+i<stdio.h>
+
+N/Users/caina/Desktop/ReaderSample/ZBarSDK/Headers/ZBarSDK/zbar/Symbol.h
+c000000004E40215F000000000000307A
+t1312825695
+s12410
+i<stdlib.h>
+i<string>
+i<ostream>
+i<assert.h>
+
+N/Users/caina/Desktop/ReaderSample/ZBarSDK/Headers/ZBarSDK/zbar/Video.h
+c000000004E40215F000000000000115D
+t1312825695
+s4445
+i"Image.h"
+
+N/Users/caina/Desktop/ReaderSample/ZBarSDK/Headers/ZBarSDK/zbar/Window.h
+c000000004E40215F0000000000000E9D
+t1312825695
+s3741
+i"Image.h"
+
+N/Users/caina/Desktop/ReaderSample/ZBarSDK/Resources/zbar-back.png
+c000000004E40215F000000000000013F
+t1312825695
+s319
+
+N/Users/caina/Desktop/ReaderSample/ZBarSDK/Resources/zbar-help.html
+c000000004E40215F0000000000000D37
+t1312825695
+s3383
+
+N/Users/caina/Desktop/ReaderSample/ZBarSDK/Resources/zbar-helpicons.png
+c000000004E40215F00000000000047AE
+t1312825695
+s18350
+
+N/Users/caina/Desktop/ReaderSample/ZBarSDK/Resources/zbar-samples.png
+c000000004E40215F000000000000049D
+t1312825695
+s1181
+
+N/Users/caina/Desktop/ReaderSample/ZBarSDK/libzbar.a
+c000000004E40215E00000000002E5F0C
+t1312825694
+s3038988
+
+N/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app
+t1343749583
+s476
+
+N/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app.dSYM
+t1343749576
+s102
+
+N/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/Info.plist
+t1343749575
+s1029
+
+N/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/PkgInfo
+t1343749575
+s8
+
+N/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/ReaderSample
+t1343749576
+s488720
+
+N/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/ResourceRules.plist
+t1343749575
+s485
+
+N/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/embedded.mobileprovision
+t1343749577
+s7356
+
+N/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/en.lproj/InfoPlist.strings
+t1343749577
+s42
+
+N/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/en.lproj/MainWindow.nib
+t1343749577
+s1133
+
+N/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/en.lproj/ReaderSampleViewController.nib
+t1343749577
+s2060
+
+N/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/zbar-back.png
+t1343749577
+s319
+
+N/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/zbar-help.html
+t1343749576
+s3383
+
+N/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/zbar-helpicons.png
+t1343749577
+s23139
+
+N/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/zbar-samples.png
+t1343749577
+s1468
+
+N/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSample
+t1343749576
+s244532
+
+N/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSample.LinkFileList
+c000000005017FDC60000000000000194
+t1343749574
+s404
+
+N/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSampleAppDelegate.o
+t1343749575
+s51312
+
+N/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSampleViewController.o
+t1343749575
+s54872
+
+N/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/main.o
+t1343749575
+s3960
+
+N/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSample
+t1343749576
+s238864
+
+N/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSample.LinkFileList
+c000000005017FDC60000000000000194
+t1343749574
+s404
+
+N/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSampleAppDelegate.o
+t1343749575
+s51488
+
+N/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSampleViewController.o
+t1343749575
+s55260
+
+N/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/main.o
+t1343749575
+s4020
+
+N/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample.xcent
+t1343749577
+s430
+
+N/Users/caina/Library/MobileDevice/Provisioning Profiles/B6B1D7BC-C5B9-4702-BB0A-578F6CCD721E.mobileprovision
+c000000005017F9410000000000001CBC
+t1343748417
+s7356
+
+N/var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-ahjwigokbuyzsmellmckiekfvzts/ReaderSample-Prefix.pch.gch
+t2
+s0
+
+N/var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-binlyjorsdcpidbhojyclgjirdtl/ReaderSample-Prefix.pch.gch
+t1343759107
+s8562700
+
+N/var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-bmueuxbeigxjazettkakyvmdoxec/ReaderSample-Prefix.pch.gch
+t2
+s0
+
+N/var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-dpfvhpstavpwyqclqdnceqchwvlq/ReaderSample-Prefix.pch.gch
+t1343749575
+s8562700
+
+N/var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-ejcuwvzkrjrizzeiknjzyappuahd/ReaderSample-Prefix.pch.gch
+t1343759107
+s8067084
+
+N/var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-gfixlyoquvoftyabitjpkfjdzajk/ReaderSample-Prefix.pch.gch
+t1343749575
+s8067084
+
+NReaderSample/ReaderSample-Info.plist
+c000000004E40216800000000000004A6
+t1312825704
+s1190
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies365458907#365458907#0(0"0(0#1#0"8624348032#0"0#
+
+CCodeSign "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app"
+s365458908.284523
+e365458908.773002
+r1
+xCodeSign
+x/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app
+lSLF07#2@46"CodeSign build/Debug-iphoneos/ReaderSample.app365458908#365458908#0(0"0(0#0#73"/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app8621874976#670"    cd "/Users/caina/Desktop/ReaderSample 2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Annie Jo Cain (NWAHBFPHSN)" "--resource-rules=/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/ResourceRules.plist" --entitlements "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample.xcent" "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app"0#
+
+CCodeSign /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app
+s365442377.505660
+e365442383.854275
+r1
+xCodeSign
+x/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app
+lSLF07#2@46"CodeSign build/Debug-iphoneos/ReaderSample.app365442377#365442383#0(0"0(0#0#71"/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app8604027232#654"    cd /Users/caina/Desktop/ReaderSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Annie Jo Cain (NWAHBFPHSN)" --resource-rules=/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/ResourceRules.plist --entitlements /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample.xcent /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app0#
+
+CCompileC build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSampleAppDelegate.o "/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleAppDelegate.m" normal armv6 objective-c com.apple.compilers.llvmgcc42
+s365451907.766730
+e365451907.855304
+r1
+xCompileC
+xbuild/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSampleAppDelegate.o
+x/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@82"Compile /Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleAppDelegate.m365451907#365451907#0(0"0(0#0#74"/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleAppDelegate.m8623616768#1965"    cd "/Users/caina/Desktop/ReaderSample 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-generated-files.hmap" "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-own-target-headers.hmap" "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-all-target-headers.hmap" -iquote "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-project-headers.hmap" "-F/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos" "-I/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/include" -ILibraries/RestKit/Build "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources/armv6" "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-ejcuwvzkrjrizzeiknjzyappuahd/ReaderSample-Prefix.pch -c "/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleAppDelegate.m" -o "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSampleAppDelegate.o"0#
+
+CCompileC build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSampleAppDelegate.o /Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSampleAppDelegate.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s365442375.828996
+e365442375.926041
+r1
+xCompileC
+xbuild/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSampleAppDelegate.o
+x/Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSampleAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@80"Compile /Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSampleAppDelegate.m365442375#365442375#0(0"0(0#0#72"/Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSampleAppDelegate.m8605842720#1895"    cd /Users/caina/Desktop/ReaderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-generated-files.hmap -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-own-target-headers.hmap -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-all-target-headers.hmap -iquote /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-project-headers.hmap -F/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos -I/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/include -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources/armv6 -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-gfixlyoquvoftyabitjpkfjdzajk/ReaderSample-Prefix.pch -c /Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSampleAppDelegate.m -o /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSampleAppDelegate.o0#
+
+CCompileC build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSampleViewController.o "/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleViewController.m" normal armv6 objective-c com.apple.compilers.llvmgcc42
+s365458907.685198
+e365458907.960985
+r1
+xCompileC
+xbuild/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSampleViewController.o
+x/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@85"Compile /Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleViewController.m365458907#365458907#0(0"0(0#0#77"/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleViewController.m8633059552#1971"    cd "/Users/caina/Desktop/ReaderSample 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-generated-files.hmap" "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-own-target-headers.hmap" "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-all-target-headers.hmap" -iquote "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-project-headers.hmap" "-F/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos" "-I/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/include" -ILibraries/RestKit/Build "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources/armv6" "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-ejcuwvzkrjrizzeiknjzyappuahd/ReaderSample-Prefix.pch -c "/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleViewController.m" -o "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSampleViewController.o"0#
+
+CCompileC build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSampleViewController.o /Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSampleViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s365442375.829809
+e365442375.935006
+r1
+xCompileC
+xbuild/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSampleViewController.o
+x/Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSampleViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@83"Compile /Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSampleViewController.m365442375#365442375#0(0"0(0#0#75"/Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSampleViewController.m8608054976#1901"    cd /Users/caina/Desktop/ReaderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-generated-files.hmap -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-own-target-headers.hmap -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-all-target-headers.hmap -iquote /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-project-headers.hmap -F/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos -I/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/include -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources/armv6 -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-gfixlyoquvoftyabitjpkfjdzajk/ReaderSample-Prefix.pch -c /Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSampleViewController.m -o /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSampleViewController.o0#
+
+CCompileC build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/main.o "/Users/caina/Desktop/ReaderSample 2/ReaderSample/main.m" normal armv6 objective-c com.apple.compilers.llvmgcc42
+s365451907.765656
+e365451907.821387
+r1
+xCompileC
+xbuild/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/main.o
+x/Users/caina/Desktop/ReaderSample 2/ReaderSample/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@63"Compile /Users/caina/Desktop/ReaderSample 2/ReaderSample/main.m365451907#365451907#0(0"0(0#0#55"/Users/caina/Desktop/ReaderSample 2/ReaderSample/main.m8624378912#1927"    cd "/Users/caina/Desktop/ReaderSample 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-generated-files.hmap" "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-own-target-headers.hmap" "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-all-target-headers.hmap" -iquote "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-project-headers.hmap" "-F/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos" "-I/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/include" -ILibraries/RestKit/Build "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources/armv6" "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-ejcuwvzkrjrizzeiknjzyappuahd/ReaderSample-Prefix.pch -c "/Users/caina/Desktop/ReaderSample 2/ReaderSample/main.m" -o "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/main.o"0#
+
+CCompileC build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/main.o /Users/caina/Desktop/ReaderSample/ReaderSample/main.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+s365442375.828014
+e365442375.907291
+r1
+xCompileC
+xbuild/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/main.o
+x/Users/caina/Desktop/ReaderSample/ReaderSample/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@61"Compile /Users/caina/Desktop/ReaderSample/ReaderSample/main.m365442375#365442375#0(0"0(0#0#53"/Users/caina/Desktop/ReaderSample/ReaderSample/main.m8610464608#1857"    cd /Users/caina/Desktop/ReaderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-generated-files.hmap -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-own-target-headers.hmap -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-all-target-headers.hmap -iquote /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-project-headers.hmap -F/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos -I/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/include -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources/armv6 -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-gfixlyoquvoftyabitjpkfjdzajk/ReaderSample-Prefix.pch -c /Users/caina/Desktop/ReaderSample/ReaderSample/main.m -o /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSampleAppDelegate.o "/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleAppDelegate.m" normal armv7 objective-c com.apple.compilers.llvmgcc42
+s365451907.769401
+e365451907.859759
+r1
+xCompileC
+xbuild/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSampleAppDelegate.o
+x/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@82"Compile /Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleAppDelegate.m365451907#365451907#0(0"0(0#0#74"/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleAppDelegate.m8616193856#1965"    cd "/Users/caina/Desktop/ReaderSample 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-generated-files.hmap" "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-own-target-headers.hmap" "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-all-target-headers.hmap" -iquote "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-project-headers.hmap" "-F/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos" "-I/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/include" -ILibraries/RestKit/Build "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources/armv7" "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-binlyjorsdcpidbhojyclgjirdtl/ReaderSample-Prefix.pch -c "/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleAppDelegate.m" -o "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSampleAppDelegate.o"0#
+
+CCompileC build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSampleAppDelegate.o /Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSampleAppDelegate.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s365442375.831537
+e365442375.938800
+r1
+xCompileC
+xbuild/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSampleAppDelegate.o
+x/Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSampleAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@80"Compile /Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSampleAppDelegate.m365442375#365442375#0(0"0(0#0#72"/Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSampleAppDelegate.m8605157696#1895"    cd /Users/caina/Desktop/ReaderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-generated-files.hmap -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-own-target-headers.hmap -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-all-target-headers.hmap -iquote /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-project-headers.hmap -F/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos -I/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/include -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources/armv7 -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-dpfvhpstavpwyqclqdnceqchwvlq/ReaderSample-Prefix.pch -c /Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSampleAppDelegate.m -o /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSampleAppDelegate.o0#
+
+CCompileC build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSampleViewController.o "/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleViewController.m" normal armv7 objective-c com.apple.compilers.llvmgcc42
+s365458907.740879
+e365458907.973942
+r1
+xCompileC
+xbuild/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSampleViewController.o
+x/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@85"Compile /Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleViewController.m365458907#365458907#0(0"0(0#0#77"/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleViewController.m8635194880#1971"    cd "/Users/caina/Desktop/ReaderSample 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-generated-files.hmap" "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-own-target-headers.hmap" "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-all-target-headers.hmap" -iquote "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-project-headers.hmap" "-F/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos" "-I/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/include" -ILibraries/RestKit/Build "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources/armv7" "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-binlyjorsdcpidbhojyclgjirdtl/ReaderSample-Prefix.pch -c "/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSampleViewController.m" -o "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSampleViewController.o"0#
+
+CCompileC build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSampleViewController.o /Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSampleViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s365442375.832398
+e365442375.939099
+r1
+xCompileC
+xbuild/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSampleViewController.o
+x/Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSampleViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@83"Compile /Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSampleViewController.m365442375#365442375#0(0"0(0#0#75"/Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSampleViewController.m8605815552#1901"    cd /Users/caina/Desktop/ReaderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-generated-files.hmap -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-own-target-headers.hmap -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-all-target-headers.hmap -iquote /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-project-headers.hmap -F/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos -I/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/include -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources/armv7 -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-dpfvhpstavpwyqclqdnceqchwvlq/ReaderSample-Prefix.pch -c /Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSampleViewController.m -o /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSampleViewController.o0#
+
+CCompileC build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/main.o "/Users/caina/Desktop/ReaderSample 2/ReaderSample/main.m" normal armv7 objective-c com.apple.compilers.llvmgcc42
+s365451907.768508
+e365451907.823489
+r1
+xCompileC
+xbuild/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/main.o
+x/Users/caina/Desktop/ReaderSample 2/ReaderSample/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@63"Compile /Users/caina/Desktop/ReaderSample 2/ReaderSample/main.m365451907#365451907#0(0"0(0#0#55"/Users/caina/Desktop/ReaderSample 2/ReaderSample/main.m8615617504#1927"    cd "/Users/caina/Desktop/ReaderSample 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-generated-files.hmap" "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-own-target-headers.hmap" "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-all-target-headers.hmap" -iquote "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-project-headers.hmap" "-F/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos" "-I/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/include" -ILibraries/RestKit/Build "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources/armv7" "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-binlyjorsdcpidbhojyclgjirdtl/ReaderSample-Prefix.pch -c "/Users/caina/Desktop/ReaderSample 2/ReaderSample/main.m" -o "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/main.o"0#
+
+CCompileC build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/main.o /Users/caina/Desktop/ReaderSample/ReaderSample/main.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+s365442375.830671
+e365442375.906976
+r1
+xCompileC
+xbuild/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/main.o
+x/Users/caina/Desktop/ReaderSample/ReaderSample/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@61"Compile /Users/caina/Desktop/ReaderSample/ReaderSample/main.m365442375#365442375#0(0"0(0#0#53"/Users/caina/Desktop/ReaderSample/ReaderSample/main.m8608627520#1857"    cd /Users/caina/Desktop/ReaderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-generated-files.hmap -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-own-target-headers.hmap -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-all-target-headers.hmap -iquote /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-project-headers.hmap -F/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos -I/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/include -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources/armv7 -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -include /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-dpfvhpstavpwyqclqdnceqchwvlq/ReaderSample-Prefix.pch -c /Users/caina/Desktop/ReaderSample/ReaderSample/main.m -o /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB "/Users/caina/Desktop/ReaderSample 2/ReaderSample/en.lproj/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/caina/Desktop/ReaderSample 2/ReaderSample/en.lproj/ReaderSampleViewController.xib"
+r0
+
+CCompileXIB /Users/caina/Desktop/ReaderSample/ReaderSample/en.lproj/MainWindow.xib
+s365442376.751828
+e365442377.240537
+r1
+xCompileXIB
+x/Users/caina/Desktop/ReaderSample/ReaderSample/en.lproj/MainWindow.xib
+lSLF07#2@47"CompileXIB ReaderSample/en.lproj/MainWindow.xib365442376#365442377#0(0"0(0#0#70"/Users/caina/Desktop/ReaderSample/ReaderSample/en.lproj/MainWindow.xib8608205024#563"    cd /Users/caina/Desktop/ReaderSample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/en.lproj/MainWindow.nib /Users/caina/Desktop/ReaderSample/ReaderSample/en.lproj/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/caina/Desktop/ReaderSample/ReaderSample/en.lproj/ReaderSampleViewController.xib
+s365442376.752436
+e365442377.474081
+r1
+xCompileXIB
+x/Users/caina/Desktop/ReaderSample/ReaderSample/en.lproj/ReaderSampleViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@63"CompileXIB ReaderSample/en.lproj/ReaderSampleViewController.xib365442376#365442377#0(168"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#86"/Users/caina/Desktop/ReaderSample/ReaderSample/en.lproj/ReaderSampleViewController.xib8608054784#595"    cd /Users/caina/Desktop/ReaderSample    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/en.lproj/ReaderSampleViewController.nib /Users/caina/Desktop/ReaderSample/ReaderSample/en.lproj/ReaderSampleViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCopyPNGFile "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/zbar-back.png" ZBarSDK/Resources/zbar-back.png
+r0
+
+CCopyPNGFile "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/zbar-helpicons.png" ZBarSDK/Resources/zbar-helpicons.png
+r0
+
+CCopyPNGFile "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/zbar-samples.png" ZBarSDK/Resources/zbar-samples.png
+r0
+
+CCopyPNGFile /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/zbar-back.png ZBarSDK/Resources/zbar-back.png
+s365442376.753019
+e365442377.168774
+r1
+xCopyPNGFile
+x/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/zbar-back.png
+xZBarSDK/Resources/zbar-back.png
+olibpng warning: Warning: Input PNG does not have an 8 bit input depth.  Please convert your PNG to 8-bit for optimal performance on iPhone OS.
+lSLF07#2@95"CopyPNGFile build/Debug-iphoneos/ReaderSample.app/zbar-back.png ZBarSDK/Resources/zbar-back.png365442376#365442377#0(143"libpng warning: Warning: Input PNG does not have an 8 bit input depth.  Please convert your PNG to 8-bit for optimal performance on iPhone OS.0(0#0#65"/Users/caina/Desktop/ReaderSample/ZBarSDK/Resources/zbar-back.png8607964576#574"    cd /Users/caina/Desktop/ReaderSample    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/caina/Desktop/ReaderSample/ZBarSDK/Resources/zbar-back.png /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/zbar-back.png0#
+
+CCopyPNGFile /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/zbar-helpicons.png ZBarSDK/Resources/zbar-helpicons.png
+s365442376.754195
+e365442377.214503
+r1
+xCopyPNGFile
+x/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/zbar-helpicons.png
+xZBarSDK/Resources/zbar-helpicons.png
+lSLF07#2@105"CopyPNGFile build/Debug-iphoneos/ReaderSample.app/zbar-helpicons.png ZBarSDK/Resources/zbar-helpicons.png365442376#365442377#0(0"0(0#0#70"/Users/caina/Desktop/ReaderSample/ZBarSDK/Resources/zbar-helpicons.png8607835488#584"    cd /Users/caina/Desktop/ReaderSample    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/caina/Desktop/ReaderSample/ZBarSDK/Resources/zbar-helpicons.png /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/zbar-helpicons.png0#
+
+CCopyPNGFile /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/zbar-samples.png ZBarSDK/Resources/zbar-samples.png
+s365442376.754780
+e365442377.179899
+r1
+xCopyPNGFile
+x/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/zbar-samples.png
+xZBarSDK/Resources/zbar-samples.png
+lSLF07#2@101"CopyPNGFile build/Debug-iphoneos/ReaderSample.app/zbar-samples.png ZBarSDK/Resources/zbar-samples.png365442376#365442377#0(0"0(0#0#68"/Users/caina/Desktop/ReaderSample/ZBarSDK/Resources/zbar-samples.png8606641088#580"    cd /Users/caina/Desktop/ReaderSample    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/caina/Desktop/ReaderSample/ZBarSDK/Resources/zbar-samples.png /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/zbar-samples.png0#
+
+CCopyStringsFile "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/en.lproj/InfoPlist.strings" ReaderSample/en.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/en.lproj/InfoPlist.strings ReaderSample/en.lproj/InfoPlist.strings
+s365442376.751052
+e365442377.091250
+r1
+xCopyStringsFile
+x/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/en.lproj/InfoPlist.strings
+xReaderSample/en.lproj/InfoPlist.strings
+lSLF07#2@44"Copy ReaderSample/en.lproj/InfoPlist.strings365442376#365442377#0(0"0(0#0#73"/Users/caina/Desktop/ReaderSample/ReaderSample/en.lproj/InfoPlist.strings8608297216#477"    cd /Users/caina/Desktop/ReaderSample    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary ReaderSample/en.lproj/InfoPlist.strings --outdir /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/en.lproj0#
+
+CCpResource build/Debug-iphoneos/ReaderSample.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s365442374.996298
+e365442375.063721
+r1
+xCpResource
+xbuild/Debug-iphoneos/ReaderSample.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist365442375#365442375#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist3328773876851107328#489"    cd /Users/caina/Desktop/ReaderSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app0#
+
+CCpResource build/Debug-iphoneos/ReaderSample.app/zbar-help.html ZBarSDK/Resources/zbar-help.html
+s365442376.753621
+e365442376.778623
+r1
+xCpResource
+xbuild/Debug-iphoneos/ReaderSample.app/zbar-help.html
+xZBarSDK/Resources/zbar-help.html
+lSLF07#2@37"Copy ZBarSDK/Resources/zbar-help.html365442376#365442376#0(0"0(0#0#66"/Users/caina/Desktop/ReaderSample/ZBarSDK/Resources/zbar-help.html8607864416#466"    cd /Users/caina/Desktop/ReaderSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/ReaderSample/ZBarSDK/Resources/zbar-help.html /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app0#
+
+CCreateUniversalBinary "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/ReaderSample" normal "armv6 armv7"
+s365458908.082311
+e365458908.086859
+r1
+xCreateUniversalBinary
+x/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/ReaderSample
+xnormal
+xarmv6 armv7
+lSLF07#2@93"CreateUniversalBinary build/Debug-iphoneos/ReaderSample.app/ReaderSample normal "armv6 armv7"365458908#365458908#0(0"0(0#0#47"/Users/caina/Desktop/ReaderSample 2/armv6 armv78621768352#554"    cd "/Users/caina/Desktop/ReaderSample 2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSample" "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSample" -output "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/ReaderSample"0#
+
+CCreateUniversalBinary /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/ReaderSample normal "armv6 armv7"
+s365442376.499539
+e365442376.532531
+r1
+xCreateUniversalBinary
+x/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/ReaderSample
+xnormal
+xarmv6 armv7
+lSLF07#2@93"CreateUniversalBinary build/Debug-iphoneos/ReaderSample.app/ReaderSample normal "armv6 armv7"365442376#365442376#0(0"0(0#0#45"/Users/caina/Desktop/ReaderSample/armv6 armv78610397856#538"    cd /Users/caina/Desktop/ReaderSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSample /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSample -output /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/ReaderSample0#
+
+CGenerateDSYMFile "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app.dSYM" "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/ReaderSample"
+s365458908.086932
+e365458908.281384
+r1
+xGenerateDSYMFile
+x/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app.dSYM
+x/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/ReaderSample
+lSLF07#2@110"GenerateDSYMFile build/Debug-iphoneos/ReaderSample.app.dSYM build/Debug-iphoneos/ReaderSample.app/ReaderSample365458908#365458908#0(0"0(0#0#86"/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/ReaderSample8616631328#374"    cd "/Users/caina/Desktop/ReaderSample 2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/ReaderSample" -o "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app.dSYM"0#
+
+CGenerateDSYMFile /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app.dSYM /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/ReaderSample
+s365442376.532749
+e365442376.750966
+r1
+xGenerateDSYMFile
+x/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app.dSYM
+x/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/ReaderSample
+lSLF07#2@110"GenerateDSYMFile build/Debug-iphoneos/ReaderSample.app.dSYM build/Debug-iphoneos/ReaderSample.app/ReaderSample365442376#365442376#0(0"0(0#0#84"/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/ReaderSample8609962432#362"    cd /Users/caina/Desktop/ReaderSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/ReaderSample -o /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app.dSYM0#
+
+CLd "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSample" normal armv6
+s365458907.961078
+e365458908.062984
+r1
+xLd
+x/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSample
+xnormal
+xarmv6
+lSLF07#2@133"Link /Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSample365458907#365458908#0(0"0(0#0#0"8623354272#1666"    cd "/Users/caina/Desktop/ReaderSample 2"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos" "-L/Users/caina/Desktop/ReaderSample 2/ZBarSDK" "-F/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos" -filelist "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSample.LinkFileList" -dead_strip -ObjC -all_load -miphoneos-version-min=4.0 -framework AVFoundation -framework CoreMedia -framework CoreVideo -liconv -framework QuartzCore -framework UIKit -framework Foundation -framework CoreGraphics -lzbar "/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/Debug-iphoneos/libRestKitCoreData.a" "/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/Debug-iphoneos/libRestKitJSONParserYAJL.a" "/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/Debug-iphoneos/libRestKitNetwork.a" "/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/Debug-iphoneos/libRestKitObjectMapping.a" "/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/Debug-iphoneos/libRestKitSupport.a" -framework CFNetwork -framework CoreData -framework MobileCoreServices -framework SystemConfiguration -prebind -o "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSample"0#
+
+CLd "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSample" normal armv7
+s365458907.974010
+e365458908.082230
+r1
+xLd
+x/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSample
+xnormal
+xarmv7
+lSLF07#2@133"Link /Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSample365458907#365458908#0(0"0(0#0#0"8623081888#1666"    cd "/Users/caina/Desktop/ReaderSample 2"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos" "-L/Users/caina/Desktop/ReaderSample 2/ZBarSDK" "-F/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos" -filelist "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSample.LinkFileList" -dead_strip -ObjC -all_load -miphoneos-version-min=4.0 -framework AVFoundation -framework CoreMedia -framework CoreVideo -liconv -framework QuartzCore -framework UIKit -framework Foundation -framework CoreGraphics -lzbar "/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/Debug-iphoneos/libRestKitCoreData.a" "/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/Debug-iphoneos/libRestKitJSONParserYAJL.a" "/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/Debug-iphoneos/libRestKitNetwork.a" "/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/Debug-iphoneos/libRestKitObjectMapping.a" "/Users/caina/Desktop/ReaderSample 2/Libraries/RestKit/Build/Debug-iphoneos/libRestKitSupport.a" -framework CFNetwork -framework CoreData -framework MobileCoreServices -framework SystemConfiguration -prebind -o "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSample"0#
+
+CLd /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSample normal armv6
+s365442375.935095
+e365442376.497720
+r1
+xLd
+x/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSample
+xnormal
+xarmv6
+lSLF07#2@131"Link /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSample365442375#365442376#0(0"0(0#0#0"8608208192#1025"    cd /Users/caina/Desktop/ReaderSample    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos -L/Users/caina/Desktop/ReaderSample/ZBarSDK -F/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos -filelist /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSample.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework AVFoundation -framework CoreMedia -framework CoreVideo -liconv -framework QuartzCore -framework UIKit -framework Foundation -framework CoreGraphics -lzbar -prebind -o /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv6/ReaderSample0#
+
+CLd /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSample normal armv7
+s365442375.939174
+e365442376.499453
+r1
+xLd
+x/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSample
+xnormal
+xarmv7
+lSLF07#2@131"Link /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSample365442375#365442376#0(0"0(0#0#0"8608332096#1025"    cd /Users/caina/Desktop/ReaderSample    setenv IPHONEOS_DEPLOYMENT_TARGET 4.0    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos -L/Users/caina/Desktop/ReaderSample/ZBarSDK -F/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos -filelist /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSample.LinkFileList -dead_strip -miphoneos-version-min=4.0 -framework AVFoundation -framework CoreMedia -framework CoreVideo -liconv -framework QuartzCore -framework UIKit -framework Foundation -framework CoreGraphics -lzbar -prebind -o /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/Objects-normal/armv7/ReaderSample0#
+
+CProcessInfoPlistFile "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/Info.plist" ReaderSample/ReaderSample-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/Info.plist ReaderSample/ReaderSample-Info.plist
+s365442375.043589
+e365442375.064135
+r1
+xProcessInfoPlistFile
+x/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/Info.plist
+xReaderSample/ReaderSample-Info.plist
+lSLF07#2@44"Process ReaderSample/ReaderSample-Info.plist365442375#365442375#0(0"0(0#0#70"/Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSample-Info.plist8611225280#575"    cd /Users/caina/Desktop/ReaderSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ReaderSample/ReaderSample-Info.plist -genpkginfo /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/ResourceRules.plist -o /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/Info.plist0#
+
+CProcessPCH /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-ahjwigokbuyzsmellmckiekfvzts/ReaderSample-Prefix.pch.gch ReaderSample/ReaderSample-Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CProcessPCH /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-binlyjorsdcpidbhojyclgjirdtl/ReaderSample-Prefix.pch.gch ReaderSample/ReaderSample-Prefix.pch normal armv7 objective-c com.apple.compilers.llvmgcc42
+s365451907.233735
+e365451907.765575
+r1
+xProcessPCH
+x/var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-binlyjorsdcpidbhojyclgjirdtl/ReaderSample-Prefix.pch.gch
+xReaderSample/ReaderSample-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@47"Precompile ReaderSample/ReaderSample-Prefix.pch365451907#365451907#0(0"0(0#0#72"/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSample-Prefix.pch8629656512#1821"    cd "/Users/caina/Desktop/ReaderSample 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-generated-files.hmap" "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-own-target-headers.hmap" "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-all-target-headers.hmap" -iquote "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-project-headers.hmap" "-F/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos" "-I/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/include" -ILibraries/RestKit/Build "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources/armv7" "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c "/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSample-Prefix.pch" -o /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-binlyjorsdcpidbhojyclgjirdtl/ReaderSample-Prefix.pch.gch0#
+
+CProcessPCH /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-bmueuxbeigxjazettkakyvmdoxec/ReaderSample-Prefix.pch.gch ReaderSample/ReaderSample-Prefix.pch normal armv7 objective-c com.apple.compilers.llvmgcc42
+r0
+
+CProcessPCH /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-dpfvhpstavpwyqclqdnceqchwvlq/ReaderSample-Prefix.pch.gch ReaderSample/ReaderSample-Prefix.pch normal armv7 objective-c com.apple.compilers.llvmgcc42
+s365442375.065217
+e365442375.805837
+r1
+xProcessPCH
+x/var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-dpfvhpstavpwyqclqdnceqchwvlq/ReaderSample-Prefix.pch.gch
+xReaderSample/ReaderSample-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@47"Precompile ReaderSample/ReaderSample-Prefix.pch365442375#365442375#0(0"0(0#0#70"/Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSample-Prefix.pch8605774400#1755"    cd /Users/caina/Desktop/ReaderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-generated-files.hmap -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-own-target-headers.hmap -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-all-target-headers.hmap -iquote /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-project-headers.hmap -F/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos -I/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/include -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources/armv7 -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSample-Prefix.pch -o /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-dpfvhpstavpwyqclqdnceqchwvlq/ReaderSample-Prefix.pch.gch0#
+
+CProcessPCH /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-ejcuwvzkrjrizzeiknjzyappuahd/ReaderSample-Prefix.pch.gch ReaderSample/ReaderSample-Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42
+s365451907.232879
+e365451907.761382
+r1
+xProcessPCH
+x/var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-ejcuwvzkrjrizzeiknjzyappuahd/ReaderSample-Prefix.pch.gch
+xReaderSample/ReaderSample-Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@47"Precompile ReaderSample/ReaderSample-Prefix.pch365451907#365451907#0(0"0(0#0#72"/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSample-Prefix.pch8630017856#1821"    cd "/Users/caina/Desktop/ReaderSample 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-generated-files.hmap" "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-own-target-headers.hmap" "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-all-target-headers.hmap" -iquote "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-project-headers.hmap" "-F/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos" "-I/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/include" -ILibraries/RestKit/Build "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources/armv6" "-I/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c "/Users/caina/Desktop/ReaderSample 2/ReaderSample/ReaderSample-Prefix.pch" -o /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-ejcuwvzkrjrizzeiknjzyappuahd/ReaderSample-Prefix.pch.gch0#
+
+CProcessPCH /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-gfixlyoquvoftyabitjpkfjdzajk/ReaderSample-Prefix.pch.gch ReaderSample/ReaderSample-Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42
+s365442375.064425
+e365442375.827942
+r1
+xProcessPCH
+x/var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-gfixlyoquvoftyabitjpkfjdzajk/ReaderSample-Prefix.pch.gch
+xReaderSample/ReaderSample-Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@47"Precompile ReaderSample/ReaderSample-Prefix.pch365442375#365442375#0(0"0(0#0#70"/Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSample-Prefix.pch8608082080#1755"    cd /Users/caina/Desktop/ReaderSample    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.0 -iquote /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-generated-files.hmap -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-own-target-headers.hmap -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-all-target-headers.hmap -iquote /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample-project-headers.hmap -F/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos -I/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/include -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources/armv6 -I/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/DerivedSources -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -c /Users/caina/Desktop/ReaderSample/ReaderSample/ReaderSample-Prefix.pch -o /var/folders/pO/pO3P254CGaq8jChrNhIyUU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ReaderSample-Prefix-gfixlyoquvoftyabitjpkfjdzajk/ReaderSample-Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/caina/Library/MobileDevice/Provisioning Profiles/B6B1D7BC-C5B9-4702-BB0A-578F6CCD721E.mobileprovision" "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app/embedded.mobileprovision"
+r0
+
+CProcessProductPackaging "/Users/caina/Library/MobileDevice/Provisioning Profiles/B6B1D7BC-C5B9-4702-BB0A-578F6CCD721E.mobileprovision" /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/embedded.mobileprovision
+s365442377.474182
+e365442377.485390
+r1
+xProcessProductPackaging
+x/Users/caina/Library/MobileDevice/Provisioning Profiles/B6B1D7BC-C5B9-4702-BB0A-578F6CCD721E.mobileprovision
+x/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/embedded.mobileprovision
+lSLF07#2@197"ProcessProductPackaging "/Users/caina/Library/MobileDevice/Provisioning Profiles/B6B1D7BC-C5B9-4702-BB0A-578F6CCD721E.mobileprovision" build/Debug-iphoneos/ReaderSample.app/embedded.mobileprovision365442377#365442377#0(0"0(0#0#96"/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/embedded.mobileprovision8605606688#418"    cd /Users/caina/Desktop/ReaderSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/caina/Library/MobileDevice/Provisioning Profiles/B6B1D7BC-C5B9-4702-BB0A-578F6CCD721E.mobileprovision" -o /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Users/caina/Desktop/ReaderSample 2/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample.xcent"
+r0
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample.xcent
+s365442377.498215
+e365442377.505608
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample.xcent
+lSLF07#2@190"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample.xcent365442377#365442377#0(0"0(0#0#111"/Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample.xcent8604754048#437"    cd /Users/caina/Desktop/ReaderSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/caina/Desktop/ReaderSample/build/ReaderSample.build/Debug-iphoneos/ReaderSample.build/ReaderSample.xcent0#
+
+CTouch "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app"
+s365458908.281767
+e365458908.284417
+r1
+xTouch
+x/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app
+lSLF07#2@79"Touch /Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app365458908#365458908#0(0"0(0#0#0"8611785216#267"    cd "/Users/caina/Desktop/ReaderSample 2"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/caina/Desktop/ReaderSample 2/build/Debug-iphoneos/ReaderSample.app"0#
+
+CTouch /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app
+s365442377.485441
+e365442377.498136
+r1
+xTouch
+x/Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app
+lSLF07#2@77"Touch /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app365442377#365442377#0(0"0(0#0#0"8605292480#259"    cd /Users/caina/Desktop/ReaderSample    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/caina/Desktop/ReaderSample/build/Debug-iphoneos/ReaderSample.app0#
+
