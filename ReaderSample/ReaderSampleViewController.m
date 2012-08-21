@@ -6,12 +6,10 @@
 //
 
 #import "ReaderSampleViewController.h"
-#import <RestKit/RestKit.h>
-#import <RestKit/CoreData/CoreData.h>
 
 @implementation ReaderSampleViewController
 
-@synthesize resultImage, resultText;
+@synthesize resultImage, resultText, statusText;
 
 - (IBAction) scanButtonTapped
 {
@@ -49,7 +47,7 @@
     resultText.text = symbol.data;
 	
 	//Create String
-    NSString *var1 =@"barcode=";
+    /*NSString *var1 =@"barcode=";
 	NSString *barcode = [var1 stringByAppendingString:resultText.text];
 	
     NSMutableURLRequest *request = 
@@ -67,7 +65,21 @@
     [request setHTTPBody:[postString 
                           dataUsingEncoding:NSUTF8StringEncoding]];
 	
-    [[NSURLConnection alloc] initWithRequest:request delegate:self];
+    [[NSURLConnection alloc] initWithRequest:request delegate:self];*/
+	
+	RKClient* client = [RKClient clientWithBaseURL:@"http://hlsl10.law.harvard.edu/dev/annie/wtwba/receive.php"];
+	NSLog(@"I am your RKClient singleton : %@", [RKClient sharedClient]);  
+	
+	//NSDictionary* params = [NSDictionary dictionaryWithObject:@"kitten" forKey:@"barcode"];
+	NSDate *now = [NSDate date];
+	NSDateFormatter* dateFormatter = [[NSDateFormatter alloc] init];
+	[dateFormatter setDateFormat:@"yyyy-MM-dd HH:mm:ss"];
+	NSString* dateString = [dateFormatter stringFromDate:now];
+	[dateFormatter release];
+	NSMutableDictionary* params = [[NSMutableDictionary alloc] init];
+    [params setObject:symbol.data forKey:@"barcode"];
+	[params setObject:dateString forKey:@"date"];
+	[[RKClient sharedClient] post:@"" params:params delegate:self];  
 
     // EXAMPLE: do something useful with the barcode image
     resultImage.image =
@@ -75,6 +87,21 @@
 
     // ADD: dismiss the controller (NB dismiss from the *reader*!)
     [reader dismissModalViewControllerAnimated: YES];
+}
+
+- (void)request:(RKRequest*)request didLoadResponse: 
+(RKResponse*)response { 
+	NSLog(@"Posted");
+}
+
+-(void)connectionDidFinishLoading:(NSURLConnection *)connection{
+    NSLog(@"Sent");
+	statusText.text = @"Sent woo";
+}
+
+-(void)connection:(NSURLConnection *)connection didFailWithError:(NSError *)error{
+    statusText.text = @"No data sent. ERROR.";
+	NSLog(@"No data sent. ERROR.");
 }
 
 - (BOOL) shouldAutorotateToInterfaceOrientation: (UIInterfaceOrientation) orient
@@ -85,6 +112,7 @@
 - (void) dealloc {
     self.resultImage = nil;
     self.resultText = nil;
+	self.statusText = nil;
     [super dealloc];
 }
 

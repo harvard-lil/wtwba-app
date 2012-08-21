@@ -1,0 +1,1180 @@
+TRestKitJSONParser+YAJL
+v7
+r0
+t367185061.136651
+cCheck dependencies
+cCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/NSBundle+YAJL.h Vendor/YAJL/NSBundle+YAJL.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/NSObject+YAJL.h Vendor/YAJL/NSObject+YAJL.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_common.h Vendor/YAJL/yajl-1.0.9/src/api/yajl_common.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_gen.h Vendor/YAJL/yajl-1.0.9/src/api/yajl_gen.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_parse.h Vendor/YAJL/yajl-1.0.9/src/api/yajl_parse.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_alloc.h Vendor/YAJL/yajl-1.0.9/src/yajl_alloc.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_buf.h Vendor/YAJL/yajl-1.0.9/src/yajl_buf.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_bytestack.h Vendor/YAJL/yajl-1.0.9/src/yajl_bytestack.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_encode.h Vendor/YAJL/yajl-1.0.9/src/yajl_encode.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_lex.h Vendor/YAJL/yajl-1.0.9/src/yajl_lex.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_parser.h Vendor/YAJL/yajl-1.0.9/src/yajl_parser.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/YAJL.h Vendor/YAJL/YAJL.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/YAJLDocument.h Vendor/YAJL/YAJLDocument.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/YAJLGen.h Vendor/YAJL/YAJLGen.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/YAJLIOS.h Vendor/YAJL/YAJLIOS.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/YAJLParser.h Vendor/YAJL/YAJLParser.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/GHNSBundle+Utils.h Vendor/YAJL/Libraries/GHKit/GHNSBundle+Utils.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/GTMBase64.h Vendor/YAJL/Libraries/GTM/GTMBase64.h
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/NSBundle+YAJL.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSBundle+YAJL.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/NSObject+YAJL.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSObject+YAJL.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl.c normal armv6 c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_alloc.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_alloc.c normal armv6 c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_buf.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_buf.c normal armv6 c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_encode.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_encode.c normal armv6 c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_gen.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_gen.c normal armv6 c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_lex.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_lex.c normal armv6 c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_parser.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_parser.c normal armv6 c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/YAJLDocument.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLDocument.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/YAJLGen.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLGen.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/YAJLParser.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLParser.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/GHNSBundle+Utils.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GHKit/GHNSBundle+Utils.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/GTMBase64.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GTM/GTMBase64.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/RKJSONParser+YAJL.o /Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+YAJL.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/NSBundle+YAJL.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSBundle+YAJL.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/NSObject+YAJL.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSObject+YAJL.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl.c normal armv7 c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_alloc.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_alloc.c normal armv7 c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_buf.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_buf.c normal armv7 c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_encode.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_encode.c normal armv7 c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_gen.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_gen.c normal armv7 c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_lex.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_lex.c normal armv7 c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_parser.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_parser.c normal armv7 c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/YAJLDocument.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLDocument.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/YAJLGen.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLGen.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/YAJLParser.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLParser.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/GHNSBundle+Utils.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GHKit/GHNSBundle+Utils.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/GTMBase64.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GTM/GTMBase64.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/RKJSONParser+YAJL.o /Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+YAJL.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLibtool /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/libRestKitJSONParserYAJL.a normal armv6
+cLibtool /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/libRestKitJSONParserYAJL.a normal armv7
+cCreateUniversalBinary /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/libRestKitJSONParserYAJL.a normal "armv6 armv7"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/assert.h
+c000000004CB3E4B80000000000000DCB
+t1286857912
+s3531
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/ctype.h
+c000000004CB3E4B80000000000002C18
+t1286857912
+s11288
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/errno.h
+c000000004CB3E4B800000000000003EB
+t1286857912
+s1003
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/math.h
+c000000004CB3E44400000000000004F1
+t1286857796
+s1265
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/stdio.h
+c000000004CB3E4B800000000000040AC
+t1286857912
+s16556
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/stdlib.h
+c000000004CB3E4B80000000000002DF5
+t1286857912
+s11765
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/string.h
+c000000004CB3E4B80000000000001731
+t1286857912
+s5937
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/gcc/arm-apple-darwin10/4.2.1/include/float.h
+c000000004C5A56870000000000001538
+t1280988807
+s5432
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/lib/gcc/arm-apple-darwin10/4.2.1/include/limits.h
+c000000004C5A56870000000000000C7E
+t1280988807
+s3198
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/GHNSBundle+Utils.h
+t1345492260
+s629
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/GTMBase64.h
+t1345492260
+s5888
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/NSBundle+YAJL.h
+t1345492260
+s1813
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/NSObject+YAJL.h
+t1345492260
+s3880
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/YAJL.h
+t1345492260
+s1337
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/YAJLDocument.h
+t1345492260
+s3237
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/YAJLGen.h
+t1345492260
+s2775
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/YAJLIOS.h
+t1345492260
+s1337
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/YAJLParser.h
+t1345492260
+s3766
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_alloc.h
+t1345492260
+s1977
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_buf.h
+t1345492260
+s2605
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_bytestack.h
+t1345492260
+s3143
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_common.h
+t1345492260
+s3131
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_encode.h
+t1345492260
+s2047
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_gen.h
+t1345492260
+s7208
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_lex.h
+t1345492260
+s4995
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_parse.h
+t1345492260
+s8498
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_parser.h
+t1345492260
+s2910
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/libRestKitJSONParserYAJL.a
+t1345492261
+s467168
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/GHNSBundle+Utils.o
+t1345492260
+s12324
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/GTMBase64.o
+t1345492260
+s25216
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/NSBundle+YAJL.o
+t1345492260
+s8580
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/NSObject+YAJL.o
+t1345492260
+s13716
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/RKJSONParser+YAJL.o
+t1345492260
+s7560
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/RestKitJSONParserYAJL.LinkFileList
+c000000005032952400000000000007F0
+t1345492260
+s2032
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/YAJLDocument.o
+t1345492260
+s26288
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/YAJLGen.o
+t1345492260
+s21796
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/YAJLParser.o
+t1345492260
+s29940
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/libRestKitJSONParserYAJL.a
+t1345492260
+s240296
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl.o
+t1345492260
+s9320
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_alloc.o
+t1345492260
+s4080
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_buf.o
+t1345492260
+s7764
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_encode.o
+t1345492260
+s9464
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_gen.o
+t1345492260
+s20696
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_lex.o
+t1345492260
+s21636
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_parser.o
+t1345492260
+s17544
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/GHNSBundle+Utils.o
+t1345492261
+s12140
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/GTMBase64.o
+t1345492261
+s23972
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/NSBundle+YAJL.o
+t1345492260
+s8516
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/NSObject+YAJL.o
+t1345492260
+s13560
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/RKJSONParser+YAJL.o
+t1345492261
+s7540
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/RestKitJSONParserYAJL.LinkFileList
+c000000005032952400000000000007F0
+t1345492260
+s2032
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/YAJLDocument.o
+t1345492261
+s25868
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/YAJLGen.o
+t1345492261
+s21552
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/YAJLParser.o
+t1345492261
+s29184
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/libRestKitJSONParserYAJL.a
+t1345492261
+s226824
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl.o
+t1345492260
+s8924
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_alloc.o
+t1345492260
+s4036
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_buf.o
+t1345492260
+s7512
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_encode.o
+t1345492260
+s7648
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_gen.o
+t1345492261
+s18132
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_lex.o
+t1345492261
+s18240
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_parser.o
+t1345492260
+s15620
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+YAJL.m
+c000000004D6E8B14000000000000018D
+t1299090196
+s397
+i"RKJSONParser.h"
+i"YAJL.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/RKJSONParser.h
+c000000004D6E8B1400000000000000E2
+t1299090196
+s226
+i"RKParser.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Support/RKParser.h
+c000000004D6E8B14000000000000024A
+t1299090196
+s586
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch
+c000000004D6E8B1400000000000000BC
+t1299090196
+s188
+i<Foundation/Foundation.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GHKit/GHNSBundle+Utils.h
+c000000004D6E8B140000000000000275
+t1299090196
+s629
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GHKit/GHNSBundle+Utils.m
+c000000004D6E8B1400000000000004FF
+t1299090196
+s1279
+i"GHNSBundle+Utils.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GTM/GTMBase64.h
+c000000004D6E8B140000000000001700
+t1299090196
+s5888
+i<Foundation/Foundation.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GTM/GTMBase64.m
+c000000004D6E8B14000000000000628D
+t1299090196
+s25229
+i"GTMBase64.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSBundle+YAJL.h
+c000000004D6E8B140000000000000715
+t1299090196
+s1813
+i"YAJLParser.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSBundle+YAJL.m
+c000000004D6E8B140000000000000756
+t1299090196
+s1878
+i"NSBundle+YAJL.h"
+i"GHNSBundle+Utils.h"
+i"NSObject+YAJL.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSObject+YAJL.h
+c000000004D6E8B140000000000000F28
+t1299090196
+s3880
+i"YAJLGen.h"
+i"YAJLParser.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSObject+YAJL.m
+c000000004D6E8B140000000000000AD6
+t1299090196
+s2774
+i"NSObject+YAJL.h"
+i"YAJLGen.h"
+i"YAJLDocument.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJL.h
+c000000004D6E8B140000000000000539
+t1299090196
+s1337
+i"YAJLParser.h"
+i"YAJLDocument.h"
+i"YAJLGen.h"
+i"NSObject+YAJL.h"
+i"NSBundle+YAJL.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLDocument.h
+c000000004D6E8B140000000000000CA5
+t1299090196
+s3237
+i"YAJLParser.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLDocument.m
+c000000004D6E8B1400000000000014A8
+t1299090196
+s5288
+i"YAJLDocument.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLGen.h
+c000000004D6E8B140000000000000AD7
+t1299090196
+s2775
+i"yajl_gen.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLGen.m
+c000000004D6E8B14000000000000123B
+t1299090196
+s4667
+i"YAJLGen.h"
+i"GTMBase64.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLIOS.h
+c000000004D6E8B140000000000000539
+t1299090196
+s1337
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLParser.h
+c000000004D6E8B140000000000000EB6
+t1299090196
+s3766
+i"yajl_parse.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLParser.m
+c000000004D6E8B1400000000000022C4
+t1299090196
+s8900
+i"YAJLParser.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/api/yajl_common.h
+c000000004D6E8B140000000000000C3B
+t1299090196
+s3131
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/api/yajl_gen.h
+c000000004D6E8B140000000000001C28
+t1299090196
+s7208
+i"yajl_common.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/api/yajl_parse.h
+c000000004D6E8B140000000000002132
+t1299090196
+s8498
+i"yajl_common.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl.c
+c000000004D6E8B140000000000001331
+t1299090196
+s4913
+i"api/yajl_parse.h"
+i"yajl_lex.h"
+i"yajl_parser.h"
+i"yajl_alloc.h"
+i<stdlib.h>
+i<string.h>
+i<assert.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_alloc.c
+c000000004D6E8B14000000000000089F
+t1299090196
+s2207
+i"yajl_alloc.h"
+i<stdlib.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_alloc.h
+c000000004D6E8B1400000000000007B9
+t1299090196
+s1977
+i"api/yajl_common.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_buf.c
+c000000004D6E8B140000000000000CDC
+t1299090196
+s3292
+i"yajl_buf.h"
+i<assert.h>
+i<stdlib.h>
+i<string.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_buf.h
+c000000004D6E8B140000000000000A2D
+t1299090196
+s2605
+i"api/yajl_common.h"
+i"yajl_alloc.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_bytestack.h
+c000000004D6E8B140000000000000C47
+t1299090196
+s3143
+i"api/yajl_common.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_encode.c
+c000000004D6E8B140000000000001A23
+t1299090196
+s6691
+i"yajl_encode.h"
+i<assert.h>
+i<stdlib.h>
+i<string.h>
+i<stdio.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_encode.h
+c000000004D6E8B1400000000000007FF
+t1299090196
+s2047
+i"yajl_buf.h"
+i"api/yajl_gen.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_gen.c
+c000000004D6E8B1400000000000026A9
+t1299090196
+s9897
+i"api/yajl_gen.h"
+i"yajl_buf.h"
+i"yajl_encode.h"
+i<stdlib.h>
+i<string.h>
+i<stdio.h>
+i<math.h>
+i<float.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_lex.c
+c000000004D6E8B1400000000000064D5
+t1299090196
+s25813
+i"yajl_lex.h"
+i"yajl_buf.h"
+i<stdlib.h>
+i<stdio.h>
+i<assert.h>
+i<string.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_lex.h
+c000000004D6E8B140000000000001383
+t1299090196
+s4995
+i"api/yajl_common.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_parser.c
+c000000004D6E8B140000000000004E22
+t1299090196
+s20002
+i"yajl_lex.h"
+i"yajl_parser.h"
+i"yajl_encode.h"
+i"yajl_bytestack.h"
+i<stdlib.h>
+i<limits.h>
+i<errno.h>
+i<stdio.h>
+i<string.h>
+i<ctype.h>
+i<assert.h>
+i<math.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_parser.h
+c000000004D6E8B140000000000000B5E
+t1299090196
+s2910
+i"api/yajl_parse.h"
+i"yajl_bytestack.h"
+i"yajl_buf.h"
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies367185060#367185060#0(0"0(0#1#0"8616395104#0"0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/GHNSBundle+Utils.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GHKit/GHNSBundle+Utils.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185060.697510
+e367185060.906151
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/GHNSBundle+Utils.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GHKit/GHNSBundle+Utils.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GHKit/GHNSBundle+Utils.m367185060#367185060#0(0"0(0#0#83"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GHKit/GHNSBundle+Utils.m8614970112#1910"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GHKit/GHNSBundle+Utils.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/GHNSBundle+Utils.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/GTMBase64.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GTM/GTMBase64.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185060.698350
+e367185060.959814
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/GTMBase64.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GTM/GTMBase64.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GTM/GTMBase64.m367185060#367185060#0(0"0(0#0#74"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GTM/GTMBase64.m8614487360#1894"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GTM/GTMBase64.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/GTMBase64.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/NSBundle+YAJL.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSBundle+YAJL.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185060.677316
+e367185060.874832
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/NSBundle+YAJL.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSBundle+YAJL.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSBundle+YAJL.m367185060#367185060#0(0"0(0#0#64"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSBundle+YAJL.m8610866752#1888"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSBundle+YAJL.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/NSBundle+YAJL.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/NSObject+YAJL.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSObject+YAJL.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185060.678287
+e367185060.879827
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/NSObject+YAJL.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSObject+YAJL.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSObject+YAJL.m367185060#367185060#0(0"0(0#0#64"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSObject+YAJL.m8610746880#1888"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSObject+YAJL.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/NSObject+YAJL.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/RKJSONParser+YAJL.o /Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+YAJL.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185060.699364
+e367185060.898351
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/RKJSONParser+YAJL.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+YAJL.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+YAJL.m367185060#367185060#0(0"0(0#0#82"/Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+YAJL.m8613721472#1910"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+YAJL.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/RKJSONParser+YAJL.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/YAJLDocument.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLDocument.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185060.694480
+e367185060.942879
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/YAJLDocument.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLDocument.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLDocument.m367185060#367185060#0(0"0(0#0#63"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLDocument.m8616473440#1886"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLDocument.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/YAJLDocument.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/YAJLGen.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLGen.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185060.695325
+e367185060.928565
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/YAJLGen.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLGen.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLGen.m367185060#367185060#0(0"0(0#0#58"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLGen.m8616372928#1876"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLGen.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/YAJLGen.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/YAJLParser.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLParser.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185060.696375
+e367185060.962452
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/YAJLParser.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLParser.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLParser.m367185060#367185060#0(0"0(0#0#61"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLParser.m8616238752#1882"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLParser.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/YAJLParser.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl.c normal armv6 c com.apple.compilers.gcc.4_2
+s367185060.679237
+e367185060.799838
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl.c367185060#367185060#0(0"0(0#0#70"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl.c8610639968#1875"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl.c -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_alloc.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_alloc.c normal armv6 c com.apple.compilers.gcc.4_2
+s367185060.680187
+e367185060.780997
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_alloc.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_alloc.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_alloc.c367185060#367185060#0(0"0(0#0#76"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_alloc.c8610421376#1887"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_alloc.c -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_alloc.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_buf.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_buf.c normal armv6 c com.apple.compilers.gcc.4_2
+s367185060.681498
+e367185060.801809
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_buf.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_buf.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_buf.c367185060#367185060#0(0"0(0#0#74"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_buf.c8610205760#1883"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_buf.c -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_buf.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_encode.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_encode.c normal armv6 c com.apple.compilers.gcc.4_2
+s367185060.682760
+e367185060.811408
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_encode.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_encode.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_encode.c367185060#367185060#0(0"0(0#0#77"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_encode.c8610002304#1889"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_encode.c -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_encode.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_gen.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_gen.c normal armv6 c com.apple.compilers.gcc.4_2
+s367185060.684263
+e367185060.915460
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_gen.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_gen.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_gen.c367185060#367185060#0(0"0(0#0#74"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_gen.c8608728352#1883"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_gen.c -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_gen.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_lex.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_lex.c normal armv6 c com.apple.compilers.gcc.4_2
+s367185060.691587
+e367185060.913381
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_lex.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_lex.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_lex.c367185060#367185060#0(0"0(0#0#74"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_lex.c8605067904#1883"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_lex.c -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_lex.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_parser.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_parser.c normal armv6 c com.apple.compilers.gcc.4_2
+s367185060.693303
+e367185060.876853
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_parser.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_parser.c
+xnormal
+xarmv6
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_parser.c367185060#367185060#0(0"0(0#0#77"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_parser.c8616680768#1889"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_parser.c -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/yajl_parser.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/GHNSBundle+Utils.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GHKit/GHNSBundle+Utils.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185060.906481
+e367185061.066873
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/GHNSBundle+Utils.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GHKit/GHNSBundle+Utils.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GHKit/GHNSBundle+Utils.m367185060#367185061#0(0"0(0#0#83"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GHKit/GHNSBundle+Utils.m8611450624#1910"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GHKit/GHNSBundle+Utils.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/GHNSBundle+Utils.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/GTMBase64.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GTM/GTMBase64.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185060.908310
+e367185061.101005
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/GTMBase64.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GTM/GTMBase64.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GTM/GTMBase64.m367185060#367185061#0(0"0(0#0#74"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GTM/GTMBase64.m8611001920#1894"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GTM/GTMBase64.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/GTMBase64.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/NSBundle+YAJL.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSBundle+YAJL.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185060.700525
+e367185060.908193
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/NSBundle+YAJL.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSBundle+YAJL.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSBundle+YAJL.m367185060#367185060#0(0"0(0#0#64"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSBundle+YAJL.m8612752448#1888"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSBundle+YAJL.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/NSBundle+YAJL.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/NSObject+YAJL.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSObject+YAJL.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185060.781252
+e367185060.995999
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/NSObject+YAJL.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSObject+YAJL.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSObject+YAJL.m367185060#367185060#0(0"0(0#0#64"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSObject+YAJL.m8611727648#1888"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSObject+YAJL.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/NSObject+YAJL.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/RKJSONParser+YAJL.o /Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+YAJL.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185060.913531
+e367185061.067273
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/RKJSONParser+YAJL.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+YAJL.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+YAJL.m367185060#367185061#0(0"0(0#0#82"/Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+YAJL.m8610764160#1910"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+YAJL.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/RKJSONParser+YAJL.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/YAJLDocument.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLDocument.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185060.879963
+e367185061.073333
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/YAJLDocument.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLDocument.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLDocument.m367185060#367185061#0(0"0(0#0#63"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLDocument.m8613168512#1886"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLDocument.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/YAJLDocument.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/YAJLGen.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLGen.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185060.881720
+e367185061.067854
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/YAJLGen.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLGen.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLGen.m367185060#367185061#0(0"0(0#0#58"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLGen.m8612759808#1876"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLGen.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/YAJLGen.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/YAJLParser.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLParser.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185060.898531
+e367185061.085175
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/YAJLParser.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLParser.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLParser.m367185060#367185061#0(0"0(0#0#61"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLParser.m8612195328#1882"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLParser.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/YAJLParser.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl.c normal armv7 c com.apple.compilers.gcc.4_2
+s367185060.800038
+e367185060.872640
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl.c367185060#367185060#0(0"0(0#0#70"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl.c8617122976#1875"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl.c -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_alloc.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_alloc.c normal armv7 c com.apple.compilers.gcc.4_2
+s367185060.801945
+e367185060.862982
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_alloc.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_alloc.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_alloc.c367185060#367185060#0(0"0(0#0#76"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_alloc.c8616728960#1887"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_alloc.c -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_alloc.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_buf.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_buf.c normal armv7 c com.apple.compilers.gcc.4_2
+s367185060.811557
+e367185060.881601
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_buf.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_buf.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_buf.c367185060#367185060#0(0"0(0#0#74"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_buf.c8616504928#1883"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_buf.c -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_buf.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_encode.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_encode.c normal armv7 c com.apple.compilers.gcc.4_2
+s367185060.863144
+e367185060.942323
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_encode.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_encode.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_encode.c367185060#367185060#0(0"0(0#0#77"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_encode.c8616295488#1889"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_encode.c -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_encode.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_gen.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_gen.c normal armv7 c com.apple.compilers.gcc.4_2
+s367185060.872816
+e367185061.006340
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_gen.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_gen.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_gen.c367185060#367185061#0(0"0(0#0#74"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_gen.c8614812608#1883"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_gen.c -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_gen.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_lex.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_lex.c normal armv7 c com.apple.compilers.gcc.4_2
+s367185060.874984
+e367185061.007876
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_lex.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_lex.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_lex.c367185060#367185061#0(0"0(0#0#74"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_lex.c8614441600#1883"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_lex.c -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_lex.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_parser.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_parser.c normal armv7 c com.apple.compilers.gcc.4_2
+s367185060.876971
+e367185060.996963
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_parser.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_parser.c
+xnormal
+xarmv7
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_parser.c367185060#367185060#0(0"0(0#0#77"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_parser.c8613855808#1889"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/RestKitJSONParserYAJL-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -IVendor/YAJL/yajl-1.0.9/src/api -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/DerivedSources -Wdiv-by-zero -Wbad-function-cast -Wnested-externs -Wold-style-definition -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_parser.c -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/yajl_parser.o0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/GHNSBundle+Utils.h Vendor/YAJL/Libraries/GHKit/GHNSBundle+Utils.h
+s367185060.671385
+e367185060.676040
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Support/JSON/YAJL/GHNSBundle+Utils.h
+xVendor/YAJL/Libraries/GHKit/GHNSBundle+Utils.h
+lSLF07#2@51"Copy Vendor/YAJL/Libraries/GHKit/GHNSBundle+Utils.h367185060#367185060#0(0"0(0#0#83"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GHKit/GHNSBundle+Utils.h8611239072#501"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GHKit/GHNSBundle+Utils.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/GTMBase64.h Vendor/YAJL/Libraries/GTM/GTMBase64.h
+s367185060.672720
+e367185060.677218
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Support/JSON/YAJL/GTMBase64.h
+xVendor/YAJL/Libraries/GTM/GTMBase64.h
+lSLF07#2@42"Copy Vendor/YAJL/Libraries/GTM/GTMBase64.h367185060#367185060#0(0"0(0#0#74"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GTM/GTMBase64.h8611077248#492"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/Libraries/GTM/GTMBase64.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/NSBundle+YAJL.h Vendor/YAJL/NSBundle+YAJL.h
+s367185060.659308
+e367185060.666387
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Support/JSON/YAJL/NSBundle+YAJL.h
+xVendor/YAJL/NSBundle+YAJL.h
+lSLF07#2@32"Copy Vendor/YAJL/NSBundle+YAJL.h367185060#367185060#0(0"0(0#0#64"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSBundle+YAJL.h8614439776#482"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSBundle+YAJL.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/NSObject+YAJL.h Vendor/YAJL/NSObject+YAJL.h
+s367185060.660054
+e367185060.666541
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Support/JSON/YAJL/NSObject+YAJL.h
+xVendor/YAJL/NSObject+YAJL.h
+lSLF07#2@32"Copy Vendor/YAJL/NSObject+YAJL.h367185060#367185060#0(0"0(0#0#64"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSObject+YAJL.h8614301056#482"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/NSObject+YAJL.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/YAJL.h Vendor/YAJL/YAJL.h
+s367185060.667438
+e367185060.672256
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Support/JSON/YAJL/YAJL.h
+xVendor/YAJL/YAJL.h
+lSLF07#2@23"Copy Vendor/YAJL/YAJL.h367185060#367185060#0(0"0(0#0#55"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJL.h8611588800#473"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJL.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/YAJLDocument.h Vendor/YAJL/YAJLDocument.h
+s367185060.668037
+e367185060.673487
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Support/JSON/YAJL/YAJLDocument.h
+xVendor/YAJL/YAJLDocument.h
+lSLF07#2@31"Copy Vendor/YAJL/YAJLDocument.h367185060#367185060#0(0"0(0#0#63"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLDocument.h8611492320#481"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLDocument.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/YAJLGen.h Vendor/YAJL/YAJLGen.h
+s367185060.669218
+e367185060.673857
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Support/JSON/YAJL/YAJLGen.h
+xVendor/YAJL/YAJLGen.h
+lSLF07#2@26"Copy Vendor/YAJL/YAJLGen.h367185060#367185060#0(0"0(0#0#58"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLGen.h8611393600#476"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLGen.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/YAJLIOS.h Vendor/YAJL/YAJLIOS.h
+s367185060.669935
+e367185060.674975
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Support/JSON/YAJL/YAJLIOS.h
+xVendor/YAJL/YAJLIOS.h
+lSLF07#2@26"Copy Vendor/YAJL/YAJLIOS.h367185060#367185060#0(0"0(0#0#58"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLIOS.h8611371488#476"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLIOS.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/YAJLParser.h Vendor/YAJL/YAJLParser.h
+s367185060.670773
+e367185060.675420
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Support/JSON/YAJL/YAJLParser.h
+xVendor/YAJL/YAJLParser.h
+lSLF07#2@29"Copy Vendor/YAJL/YAJLParser.h367185060#367185060#0(0"0(0#0#61"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLParser.h8611319168#479"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/YAJLParser.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_alloc.h Vendor/YAJL/yajl-1.0.9/src/yajl_alloc.h
+s367185060.662455
+e367185060.669025
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_alloc.h
+xVendor/YAJL/yajl-1.0.9/src/yajl_alloc.h
+lSLF07#2@44"Copy Vendor/YAJL/yajl-1.0.9/src/yajl_alloc.h367185060#367185060#0(0"0(0#0#76"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_alloc.h8612498464#494"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_alloc.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_buf.h Vendor/YAJL/yajl-1.0.9/src/yajl_buf.h
+s367185060.663082
+e367185060.669155
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_buf.h
+xVendor/YAJL/yajl-1.0.9/src/yajl_buf.h
+lSLF07#2@42"Copy Vendor/YAJL/yajl-1.0.9/src/yajl_buf.h367185060#367185060#0(0"0(0#0#74"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_buf.h8612244352#492"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_buf.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_bytestack.h Vendor/YAJL/yajl-1.0.9/src/yajl_bytestack.h
+s367185060.663898
+e367185060.672406
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_bytestack.h
+xVendor/YAJL/yajl-1.0.9/src/yajl_bytestack.h
+lSLF07#2@48"Copy Vendor/YAJL/yajl-1.0.9/src/yajl_bytestack.h367185060#367185060#0(0"0(0#0#80"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_bytestack.h8612130528#498"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_bytestack.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_common.h Vendor/YAJL/yajl-1.0.9/src/api/yajl_common.h
+s367185060.660639
+e367185060.666684
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_common.h
+xVendor/YAJL/yajl-1.0.9/src/api/yajl_common.h
+lSLF07#2@49"Copy Vendor/YAJL/yajl-1.0.9/src/api/yajl_common.h367185060#367185060#0(0"0(0#0#81"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/api/yajl_common.h8613792448#499"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/api/yajl_common.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_encode.h Vendor/YAJL/yajl-1.0.9/src/yajl_encode.h
+s367185060.664897
+e367185060.672531
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_encode.h
+xVendor/YAJL/yajl-1.0.9/src/yajl_encode.h
+lSLF07#2@45"Copy Vendor/YAJL/yajl-1.0.9/src/yajl_encode.h367185060#367185060#0(0"0(0#0#77"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_encode.h8611826880#495"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_encode.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_gen.h Vendor/YAJL/yajl-1.0.9/src/api/yajl_gen.h
+s367185060.661230
+e367185060.668755
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_gen.h
+xVendor/YAJL/yajl-1.0.9/src/api/yajl_gen.h
+lSLF07#2@46"Copy Vendor/YAJL/yajl-1.0.9/src/api/yajl_gen.h367185060#367185060#0(0"0(0#0#78"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/api/yajl_gen.h8613242944#496"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/api/yajl_gen.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_lex.h Vendor/YAJL/yajl-1.0.9/src/yajl_lex.h
+s367185060.665625
+e367185060.672647
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_lex.h
+xVendor/YAJL/yajl-1.0.9/src/yajl_lex.h
+lSLF07#2@42"Copy Vendor/YAJL/yajl-1.0.9/src/yajl_lex.h367185060#367185060#0(0"0(0#0#74"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_lex.h8611742752#492"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_lex.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_parse.h Vendor/YAJL/yajl-1.0.9/src/api/yajl_parse.h
+s367185060.661838
+e367185060.668885
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_parse.h
+xVendor/YAJL/yajl-1.0.9/src/api/yajl_parse.h
+lSLF07#2@48"Copy Vendor/YAJL/yajl-1.0.9/src/api/yajl_parse.h367185060#367185060#0(0"0(0#0#80"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/api/yajl_parse.h8612823296#498"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/api/yajl_parse.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_parser.h Vendor/YAJL/yajl-1.0.9/src/yajl_parser.h
+s367185060.666820
+e367185060.672111
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Support/JSON/YAJL/yajl_parser.h
+xVendor/YAJL/yajl-1.0.9/src/yajl_parser.h
+lSLF07#2@45"Copy Vendor/YAJL/yajl-1.0.9/src/yajl_parser.h367185060#367185060#0(0"0(0#0#77"/Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_parser.h8611646144#495"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Vendor/YAJL/yajl-1.0.9/src/yajl_parser.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/YAJL0#
+
+CCreateUniversalBinary /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/libRestKitJSONParserYAJL.a normal "armv6 armv7"
+s367185061.112267
+e367185061.136623
+r1
+xCreateUniversalBinary
+x/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/libRestKitJSONParserYAJL.a
+xnormal
+xarmv6 armv7
+lSLF07#2@90"CreateUniversalBinary Build/Debug-iphoneos/libRestKitJSONParserYAJL.a normal "armv6 armv7"367185061#367185061#0(0"0(0#0#48"/Users/caina/Desktop/WTWBA/Libraries/armv6 armv78616369664#631"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/libRestKitJSONParserYAJL.a /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/libRestKitJSONParserYAJL.a -o /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/libRestKitJSONParserYAJL.a0#
+
+CLibtool /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/libRestKitJSONParserYAJL.a normal armv6
+s367185060.962558
+e367185060.974097
+r1
+xLibtool
+x/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/libRestKitJSONParserYAJL.a
+xnormal
+xarmv6
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified, -all_load invalid
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@132"Libtool Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/libRestKitJSONParserYAJL.a normal armv6367185060#367185060#0(237"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified, -all_load invalid/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8610267776#781"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv6 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -filelist /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/RestKitJSONParserYAJL.LinkFileList -all_load -ObjC -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv6/libRestKitJSONParserYAJL.a0#
+
+CLibtool /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/libRestKitJSONParserYAJL.a normal armv7
+s367185061.101085
+e367185061.112176
+r1
+xLibtool
+x/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/libRestKitJSONParserYAJL.a
+xnormal
+xarmv7
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified, -all_load invalid
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@132"Libtool Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/libRestKitJSONParserYAJL.a normal armv7367185061#367185061#0(237"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified, -all_load invalid/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8616522368#781"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv7 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -filelist /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/RestKitJSONParserYAJL.LinkFileList -all_load -ObjC -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+YAJL.build/Objects-normal/armv7/libRestKitJSONParserYAJL.a0#
+

@@ -1,0 +1,704 @@
+TRestKitJSONParser+SBJSON
+v7
+r0
+t367185409.700362
+cCheck dependencies
+cCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/JSON.h Vendor/SBJSON/JSON.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/NSObject+SBJSON.h Vendor/SBJSON/NSObject+SBJSON.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/NSString+SBJSON.h Vendor/SBJSON/NSString+SBJSON.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/SBJsonBase.h Vendor/SBJSON/SBJsonBase.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/SBJsonParser.h Vendor/SBJSON/SBJsonParser.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/SBJsonWriter.h Vendor/SBJSON/SBJsonWriter.h
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/NSObject+SBJSON.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSObject+SBJSON.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/NSString+SBJSON.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSString+SBJSON.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/SBJsonBase.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonBase.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/SBJsonParser.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonParser.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/SBJsonWriter.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonWriter.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/RKJSONParser+SBJSON.o /Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+SBJSON.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLibtool /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/libRestKitJSONParserSBJSON.a normal armv6
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/NSObject+SBJSON.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSObject+SBJSON.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/NSString+SBJSON.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSString+SBJSON.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/SBJsonBase.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonBase.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/SBJsonParser.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonParser.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/SBJsonWriter.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonWriter.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/RKJSONParser+SBJSON.o /Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+SBJSON.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLibtool /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/libRestKitJSONParserSBJSON.a normal armv7
+cCreateUniversalBinary /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/libRestKitJSONParserSBJSON.a normal "armv6 armv7"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/JSON.h
+t1345492261
+s2757
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/NSObject+SBJSON.h
+t1345492261
+s2143
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/NSString+SBJSON.h
+t1345492261
+s2032
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/SBJsonBase.h
+t1345492261
+s2946
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/SBJsonParser.h
+t1345492261
+s3215
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/SBJsonWriter.h
+t1345492261
+s4569
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/libRestKitJSONParserSBJSON.a
+t1345492261
+s199040
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/NSObject+SBJSON.o
+t1345492261
+s7724
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/NSString+SBJSON.o
+t1345492261
+s7632
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/RKJSONParser+SBJSON.o
+t1345492261
+s9332
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/RestKitJSONParserSBJSON.LinkFileList
+c0000000050329525000000000000034D
+t1345492261
+s845
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/SBJsonBase.o
+t1345492261
+s13120
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/SBJsonParser.o
+t1345492261
+s35808
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/SBJsonWriter.o
+t1345492261
+s25860
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/libRestKitJSONParserSBJSON.a
+t1345492261
+s100888
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/NSObject+SBJSON.o
+t1345492261
+s7700
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/NSString+SBJSON.o
+t1345492261
+s7608
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/RKJSONParser+SBJSON.o
+t1345492261
+s9296
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/RestKitJSONParserSBJSON.LinkFileList
+c0000000050329525000000000000034D
+t1345492261
+s845
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/SBJsonBase.o
+t1345492261
+s12996
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/SBJsonParser.o
+t1345492261
+s33732
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/SBJsonWriter.o
+t1345492261
+s25356
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/libRestKitJSONParserSBJSON.a
+t1345492261
+s98104
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+SBJSON.m
+c000000004D6E8B1400000000000002EB
+t1299090196
+s747
+i"RKJSONParser.h"
+i"SBJsonParser.h"
+i"NSObject+SBJSON.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/RKJSONParser.h
+c000000004D6E8B1400000000000000E2
+t1299090196
+s226
+i"RKParser.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Support/RKParser.h
+c000000004D6E8B14000000000000024A
+t1299090196
+s586
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch
+c000000004D6E8B1400000000000000BC
+t1299090196
+s188
+i<Foundation/Foundation.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/JSON.h
+t1345492261
+s2757
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/NSObject+SBJSON.h
+t1345492261
+s2143
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/NSString+SBJSON.h
+t1345492261
+s2032
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/SBJsonBase.h
+t1345492261
+s2946
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/SBJsonParser.h
+t1345492261
+s3215
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/SBJsonWriter.h
+t1345492261
+s4569
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/Debug-iphoneos/libRestKitJSONParserSBJSON.a
+t1345492261
+s199040
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/NSObject+SBJSON.o
+t1345492261
+s7724
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/NSString+SBJSON.o
+t1345492261
+s7632
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/RKJSONParser+SBJSON.o
+t1345492261
+s9332
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/RestKitJSONParserSBJSON.LinkFileList
+c0000000050329525000000000000034D
+t1345492261
+s845
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/SBJsonBase.o
+t1345492261
+s13120
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/SBJsonParser.o
+t1345492261
+s35808
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/SBJsonWriter.o
+t1345492261
+s25860
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/libRestKitJSONParserSBJSON.a
+t1345492261
+s100888
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/NSObject+SBJSON.o
+t1345492261
+s7700
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/NSString+SBJSON.o
+t1345492261
+s7608
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/RKJSONParser+SBJSON.o
+t1345492261
+s9296
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/RestKitJSONParserSBJSON.LinkFileList
+c0000000050329525000000000000034D
+t1345492261
+s845
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/SBJsonBase.o
+t1345492261
+s12996
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/SBJsonParser.o
+t1345492261
+s33732
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/SBJsonWriter.o
+t1345492261
+s25356
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/libRestKitJSONParserSBJSON.a
+t1345492261
+s98104
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Support/Parsers/JSON/RKJSONParser+SBJSON.m
+c000000004D6E8B1400000000000002EB
+t1299090196
+s747
+i"RKJSONParser.h"
+i"SBJsonParser.h"
+i"NSObject+SBJSON.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Support/Parsers/RKJSONParser.h
+c000000004D6E8B1400000000000000E2
+t1299090196
+s226
+i"RKParser.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Support/RKParser.h
+c000000004D6E8B14000000000000024A
+t1299090196
+s586
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Support/RestKit_Prefix.pch
+c000000004D6E8B1400000000000000BC
+t1299090196
+s188
+i<Foundation/Foundation.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Vendor/SBJSON/JSON.h
+c000000004D6E8B140000000000000AC5
+t1299090196
+s2757
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Vendor/SBJSON/NSObject+SBJSON.h
+c000000004D6E8B14000000000000085F
+t1299090196
+s2143
+i<Foundation/Foundation.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Vendor/SBJSON/NSObject+SBJSON.m
+c000000004D6E8B14000000000000077D
+t1299090196
+s1917
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Vendor/SBJSON/NSString+SBJSON.h
+c000000004D6E8B1400000000000007F0
+t1299090196
+s2032
+i<Foundation/Foundation.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Vendor/SBJSON/NSString+SBJSON.m
+c000000004D6E8B14000000000000075D
+t1299090196
+s1885
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Vendor/SBJSON/SBJsonBase.h
+c000000004D6E8B140000000000000B82
+t1299090196
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Vendor/SBJSON/SBJsonBase.m
+c000000004D6E8B140000000000000AC1
+t1299090196
+s2753
+i"SBJsonBase.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Vendor/SBJSON/SBJsonParser.h
+c000000004D6E8B140000000000000C8F
+t1299090196
+s3215
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Vendor/SBJSON/SBJsonParser.m
+c000000004D6E8B140000000000003B7A
+t1299090196
+s15226
+i"SBJsonParser.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Vendor/SBJSON/SBJsonWriter.h
+c000000004D6E8B1400000000000011D9
+t1299090196
+s4569
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Vendor/SBJSON/SBJsonWriter.m
+c000000004D6E8B14000000000000206D
+t1299090196
+s8301
+i"SBJsonWriter.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/JSON.h
+c000000004D6E8B140000000000000AC5
+t1299090196
+s2757
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSObject+SBJSON.h
+c000000004D6E8B14000000000000085F
+t1299090196
+s2143
+i<Foundation/Foundation.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSObject+SBJSON.m
+c000000004D6E8B14000000000000077D
+t1299090196
+s1917
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSString+SBJSON.h
+c000000004D6E8B1400000000000007F0
+t1299090196
+s2032
+i<Foundation/Foundation.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSString+SBJSON.m
+c000000004D6E8B14000000000000075D
+t1299090196
+s1885
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonBase.h
+c000000004D6E8B140000000000000B82
+t1299090196
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonBase.m
+c000000004D6E8B140000000000000AC1
+t1299090196
+s2753
+i"SBJsonBase.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonParser.h
+c000000004D6E8B140000000000000C8F
+t1299090196
+s3215
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonParser.m
+c000000004D6E8B140000000000003B7A
+t1299090196
+s15226
+i"SBJsonParser.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonWriter.h
+c000000004D6E8B1400000000000011D9
+t1299090196
+s4569
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonWriter.m
+c000000004D6E8B14000000000000206D
+t1299090196
+s8301
+i"SBJsonWriter.h"
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies367185409#367185409#0(0"0(0#1#0"8611780864#0"0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/NSObject+SBJSON.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Vendor/SBJSON/NSObject+SBJSON.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/NSObject+SBJSON.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSObject+SBJSON.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185061.152825
+e367185061.332328
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/NSObject+SBJSON.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSObject+SBJSON.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSObject+SBJSON.m367185061#367185061#0(0"0(0#0#68"/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSObject+SBJSON.m8611495968#1809"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSObject+SBJSON.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/NSObject+SBJSON.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/NSString+SBJSON.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Vendor/SBJSON/NSString+SBJSON.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/NSString+SBJSON.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSString+SBJSON.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185061.153687
+e367185061.303625
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/NSString+SBJSON.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSString+SBJSON.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSString+SBJSON.m367185061#367185061#0(0"0(0#0#68"/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSString+SBJSON.m8611055968#1809"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSString+SBJSON.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/NSString+SBJSON.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/RKJSONParser+SBJSON.o /Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+SBJSON.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185061.157025
+e367185061.302614
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/RKJSONParser+SBJSON.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+SBJSON.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+SBJSON.m367185061#367185061#0(0"0(0#0#84"/Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+SBJSON.m8609945248#1829"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+SBJSON.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/RKJSONParser+SBJSON.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/RKJSONParser+SBJSON.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Support/Parsers/JSON/RKJSONParser+SBJSON.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/SBJsonBase.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Vendor/SBJSON/SBJsonBase.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/SBJsonBase.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonBase.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185061.154492
+e367185061.345758
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/SBJsonBase.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonBase.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonBase.m367185061#367185061#0(0"0(0#0#63"/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonBase.m8610770272#1799"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonBase.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/SBJsonBase.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/SBJsonParser.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Vendor/SBJSON/SBJsonParser.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/SBJsonParser.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonParser.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185061.155320
+e367185061.412396
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/SBJsonParser.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonParser.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonParser.m367185061#367185061#0(0"0(0#0#65"/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonParser.m8610608128#1803"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonParser.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/SBJsonParser.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/SBJsonWriter.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Vendor/SBJSON/SBJsonWriter.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/SBJsonWriter.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonWriter.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185061.156172
+e367185061.379213
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/SBJsonWriter.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonWriter.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonWriter.m367185061#367185061#0(0"0(0#0#65"/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonWriter.m8608757088#1803"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonWriter.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/SBJsonWriter.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/NSObject+SBJSON.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Vendor/SBJSON/NSObject+SBJSON.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/NSObject+SBJSON.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSObject+SBJSON.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185061.157887
+e367185061.324455
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/NSObject+SBJSON.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSObject+SBJSON.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSObject+SBJSON.m367185061#367185061#0(0"0(0#0#68"/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSObject+SBJSON.m8611616160#1809"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSObject+SBJSON.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/NSObject+SBJSON.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/NSString+SBJSON.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Vendor/SBJSON/NSString+SBJSON.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/NSString+SBJSON.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSString+SBJSON.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185061.158771
+e367185061.325923
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/NSString+SBJSON.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSString+SBJSON.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSString+SBJSON.m367185061#367185061#0(0"0(0#0#68"/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSString+SBJSON.m8611410336#1809"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSString+SBJSON.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/NSString+SBJSON.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/RKJSONParser+SBJSON.o /Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+SBJSON.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185061.170750
+e367185061.331529
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/RKJSONParser+SBJSON.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+SBJSON.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+SBJSON.m367185061#367185061#0(0"0(0#0#84"/Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+SBJSON.m8607328000#1829"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/JSON/RKJSONParser+SBJSON.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/RKJSONParser+SBJSON.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/RKJSONParser+SBJSON.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Support/Parsers/JSON/RKJSONParser+SBJSON.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/SBJsonBase.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Vendor/SBJSON/SBJsonBase.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/SBJsonBase.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonBase.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185061.159762
+e367185061.338900
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/SBJsonBase.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonBase.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonBase.m367185061#367185061#0(0"0(0#0#63"/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonBase.m8611314880#1799"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonBase.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/SBJsonBase.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/SBJsonParser.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Vendor/SBJSON/SBJsonParser.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/SBJsonParser.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonParser.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185061.161096
+e367185061.391921
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/SBJsonParser.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonParser.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonParser.m367185061#367185061#0(0"0(0#0#65"/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonParser.m8608445920#1803"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonParser.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/SBJsonParser.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/SBJsonWriter.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Vendor/SBJSON/SBJsonWriter.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/SBJsonWriter.o /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonWriter.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185061.162773
+e367185061.366653
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/SBJsonWriter.o
+x/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonWriter.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonWriter.m367185061#367185061#0(0"0(0#0#65"/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonWriter.m8607745600#1803"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/RestKitJSONParserSBJSON-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonWriter.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/SBJsonWriter.o0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/JSON.h Vendor/SBJSON/JSON.h
+s367185061.144763
+e367185061.149621
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/JSON.h
+xVendor/SBJSON/JSON.h
+lSLF07#2@25"Copy Vendor/SBJSON/JSON.h367185061#367185061#0(0"0(0#0#57"/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/JSON.h8612884832#477"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/JSON.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/NSObject+SBJSON.h Vendor/SBJSON/NSObject+SBJSON.h
+s367185061.145422
+e367185061.150298
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/NSObject+SBJSON.h
+xVendor/SBJSON/NSObject+SBJSON.h
+lSLF07#2@36"Copy Vendor/SBJSON/NSObject+SBJSON.h367185061#367185061#0(0"0(0#0#68"/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSObject+SBJSON.h8612608512#488"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSObject+SBJSON.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/NSString+SBJSON.h Vendor/SBJSON/NSString+SBJSON.h
+s367185061.146000
+e367185061.150981
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/NSString+SBJSON.h
+xVendor/SBJSON/NSString+SBJSON.h
+lSLF07#2@36"Copy Vendor/SBJSON/NSString+SBJSON.h367185061#367185061#0(0"0(0#0#68"/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSString+SBJSON.h8612371712#488"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/NSString+SBJSON.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/SBJsonBase.h Vendor/SBJSON/SBJsonBase.h
+s367185061.146576
+e367185061.151180
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/SBJsonBase.h
+xVendor/SBJSON/SBJsonBase.h
+lSLF07#2@31"Copy Vendor/SBJSON/SBJsonBase.h367185061#367185061#0(0"0(0#0#63"/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonBase.h8612224512#483"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonBase.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/SBJsonParser.h Vendor/SBJSON/SBJsonParser.h
+s367185061.147173
+e367185061.151929
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/SBJsonParser.h
+xVendor/SBJSON/SBJsonParser.h
+lSLF07#2@33"Copy Vendor/SBJSON/SBJsonParser.h367185061#367185061#0(0"0(0#0#65"/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonParser.h8612023040#485"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonParser.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/SBJsonWriter.h Vendor/SBJSON/SBJsonWriter.h
+s367185061.147897
+e367185061.152758
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Support/JSON/SBJSON/SBJsonWriter.h
+xVendor/SBJSON/SBJsonWriter.h
+lSLF07#2@33"Copy Vendor/SBJSON/SBJsonWriter.h367185061#367185061#0(0"0(0#0#65"/Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonWriter.h8611810592#485"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Vendor/SBJSON/SBJsonWriter.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Support/JSON/SBJSON0#
+
+CCreateUniversalBinary /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/libRestKitJSONParserSBJSON.a normal "armv6 armv7"
+s367185061.419282
+e367185061.428235
+r1
+xCreateUniversalBinary
+x/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/libRestKitJSONParserSBJSON.a
+xnormal
+xarmv6 armv7
+lSLF07#2@92"CreateUniversalBinary Build/Debug-iphoneos/libRestKitJSONParserSBJSON.a normal "armv6 armv7"367185061#367185061#0(0"0(0#0#48"/Users/caina/Desktop/WTWBA/Libraries/armv6 armv78611338912#641"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/libRestKitJSONParserSBJSON.a /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/libRestKitJSONParserSBJSON.a -o /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/libRestKitJSONParserSBJSON.a0#
+
+CCreateUniversalBinary /Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/Debug-iphoneos/libRestKitJSONParserSBJSON.a normal "armv6 armv7"
+r0
+
+CLibtool /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/libRestKitJSONParserSBJSON.a normal armv6
+s367185061.412484
+e367185061.419210
+r1
+xLibtool
+x/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/libRestKitJSONParserSBJSON.a
+xnormal
+xarmv6
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@136"Libtool Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/libRestKitJSONParserSBJSON.a normal armv6367185061#367185061#0(129"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8611704704#779"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv6 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -filelist /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/RestKitJSONParserSBJSON.LinkFileList -ObjC -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/libRestKitJSONParserSBJSON.a0#
+
+CLibtool /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/libRestKitJSONParserSBJSON.a normal armv7
+s367185061.392022
+e367185061.398801
+r1
+xLibtool
+x/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/libRestKitJSONParserSBJSON.a
+xnormal
+xarmv7
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@136"Libtool Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/libRestKitJSONParserSBJSON.a normal armv7367185061#367185061#0(129"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8616476096#779"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv7 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -filelist /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/RestKitJSONParserSBJSON.LinkFileList -ObjC -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/libRestKitJSONParserSBJSON.a0#
+
+CLibtool /Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv6/libRestKitJSONParserSBJSON.a normal armv6
+r0
+
+CLibtool /Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitJSONParser+SBJSON.build/Objects-normal/armv7/libRestKitJSONParserSBJSON.a normal armv7
+r0
+
