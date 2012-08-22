@@ -67,9 +67,6 @@
 	
     [[NSURLConnection alloc] initWithRequest:request delegate:self];*/
 	
-	RKClient* client = [RKClient clientWithBaseURL:@"http://hlsl10.law.harvard.edu/dev/annie/wtwba/receive.php"];
-	NSLog(@"I am your RKClient singleton : %@", [RKClient sharedClient]);  
-	
 	//NSDictionary* params = [NSDictionary dictionaryWithObject:@"kitten" forKey:@"barcode"];
 	NSDate *now = [NSDate date];
 	NSDateFormatter* dateFormatter = [[NSDateFormatter alloc] init];
@@ -91,7 +88,12 @@
 
 - (void)request:(RKRequest*)request didLoadResponse: 
 (RKResponse*)response { 
-	NSLog(@"Posted");
+	NSLog(@"Retrieved response: %@", [response bodyAsString]); 
+	statusText.text = [response bodyAsString];
+}
+
+- (void)request:(RKRequest*)request didFailLoadWithError:(NSError *)error {
+	statusText.text = @"No data sent, oh noes!";
 }
 
 -(void)connectionDidFinishLoading:(NSURLConnection *)connection{

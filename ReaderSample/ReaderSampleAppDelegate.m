@@ -22,6 +22,10 @@
      
     self.window.rootViewController = self.viewController;
     [self.window makeKeyAndVisible];
+	
+	RKClient* client = [RKClient clientWithBaseURL:@"http://hlsl10.law.harvard.edu/dev/annie/wtwba/receive.php"];
+	NSLog(@"I am your RKClient singleton : %@", [RKClient sharedClient]);
+	
     return YES;
 }
 

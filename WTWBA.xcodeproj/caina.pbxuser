@@ -5,7 +5,7 @@
 		fRef = DC8F28A913579EFF005B8862 /* ReaderSampleViewController.m */;
 		name = "ReaderSampleViewController.m: 76";
 		rLen = 0;
-		rLoc = 2526;
+		rLoc = 2340;
 		rType = 0;
 		vrLen = 1705;
 		vrLoc = 1808;
@@ -15,7 +15,7 @@
 		fRef = DC8F28A913579EFF005B8862 /* ReaderSampleViewController.m */;
 		name = "ReaderSampleViewController.m: 80";
 		rLen = 0;
-		rLoc = 2716;
+		rLoc = 2530;
 		rType = 0;
 		vrLen = 1724;
 		vrLoc = 1399;
@@ -25,17 +25,67 @@
 		fRef = DC8F28A913579EFF005B8862 /* ReaderSampleViewController.m */;
 		name = "ReaderSampleViewController.m: 94";
 		rLen = 0;
-		rLoc = 3220;
+		rLoc = 3120;
 		rType = 0;
 		vrLen = 1732;
 		vrLoc = 1775;
+	};
+	A402E62215E4015400241F35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DC8F28A913579EFF005B8862 /* ReaderSampleViewController.m */;
+		name = "ReaderSampleViewController.m: 90";
+		rLen = 0;
+		rLoc = 2935;
+		rType = 0;
+		vrLen = 1732;
+		vrLoc = 1775;
+	};
+	A402E62515E4018200241F35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DC8F28A913579EFF005B8862 /* ReaderSampleViewController.m */;
+		name = "ReaderSampleViewController.m: 71";
+		rLen = 0;
+		rLoc = 2099;
+		rType = 0;
+		vrLen = 1734;
+		vrLoc = 1775;
+	};
+	A402E62915E401C900241F35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DC8F28A913579EFF005B8862 /* ReaderSampleViewController.m */;
+		name = "ReaderSampleViewController.m: 68";
+		rLen = 0;
+		rLoc = 2099;
+		rType = 0;
+		vrLen = 1632;
+		vrLoc = 1775;
+	};
+	A402E62A15E401C900241F35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DC8F28A313579EFF005B8862 /* ReaderSampleAppDelegate.m */;
+		name = "ReaderSampleAppDelegate.m: 25";
+		rLen = 0;
+		rLoc = 763;
+		rType = 0;
+		vrLen = 1603;
+		vrLoc = 0;
+	};
+	A402E62B15E401C900241F35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DC8F28A313579EFF005B8862 /* ReaderSampleAppDelegate.m */;
+		name = "ReaderSampleAppDelegate.m: 28";
+		rLen = 0;
+		rLoc = 747;
+		rType = 0;
+		vrLen = 1572;
+		vrLoc = 0;
 	};
 	A4B7B3E215E3C25E00639F17 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		comments = "Unused variable 'client'";
 		fRef = DC8F28A913579EFF005B8862 /* ReaderSampleViewController.m */;
-		rLen = 1;
-		rLoc = 69;
+		rLen = 0;
+		rLoc = 67;
 		rType = 1;
 	};
 	A4B7B3F915E3DE1A00639F17 /* PBXTextBookmark */ = {
@@ -43,7 +93,7 @@
 		fRef = DC8F28A913579EFF005B8862 /* ReaderSampleViewController.m */;
 		name = "ReaderSampleViewController.m: 76";
 		rLen = 0;
-		rLoc = 2526;
+		rLoc = 2340;
 		rType = 0;
 		vrLen = 1724;
 		vrLoc = 1808;
@@ -210,6 +260,11 @@
 			A402E60215E3FD3B00241F35 /* PBXTextBookmark */ = A402E60215E3FD3B00241F35 /* PBXTextBookmark */;
 			A402E61115E3FD7400241F35 /* PBXTextBookmark */ = A402E61115E3FD7400241F35 /* PBXTextBookmark */;
 			A402E62015E3FE6E00241F35 /* PBXTextBookmark */ = A402E62015E3FE6E00241F35 /* PBXTextBookmark */;
+			A402E62215E4015400241F35 /* PBXTextBookmark */ = A402E62215E4015400241F35 /* PBXTextBookmark */;
+			A402E62515E4018200241F35 /* PBXTextBookmark */ = A402E62515E4018200241F35 /* PBXTextBookmark */;
+			A402E62915E401C900241F35 /* PBXTextBookmark */ = A402E62915E401C900241F35 /* PBXTextBookmark */;
+			A402E62A15E401C900241F35 /* PBXTextBookmark */ = A402E62A15E401C900241F35 /* PBXTextBookmark */;
+			A402E62B15E401C900241F35 /* PBXTextBookmark */ = A402E62B15E401C900241F35 /* PBXTextBookmark */;
 			A4B7B3E215E3C25E00639F17 = A4B7B3E215E3C25E00639F17 /* PBXTextBookmark */;
 			A4B7B3F915E3DE1A00639F17 = A4B7B3F915E3DE1A00639F17 /* PBXTextBookmark */;
 			A4CD6E3C156691B70024F327 = A4CD6E3C156691B70024F327 /* PBXTextBookmark */;
@@ -245,9 +300,10 @@
 	};
 	DC8F28A313579EFF005B8862 /* ReaderSampleAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1965, 884}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 1601}";
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 962}}";
+			sepNavSelRange = "{747, 0}";
+			sepNavVisRange = "{0, 1572}";
+			sepNavWindowFrame = "{{15, 495}, {750, 558}}";
 		};
 	};
 	DC8F28A813579EFF005B8862 /* ReaderSampleViewController.h */ = {
@@ -259,9 +315,9 @@
 	};
 	DC8F28A913579EFF005B8862 /* ReaderSampleViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {803, 1482}}";
-			sepNavSelRange = "{3220, 0}";
-			sepNavVisRange = "{1775, 1732}";
+			sepNavIntBoundsRect = "{{0, 0}, {781, 1469}}";
+			sepNavSelRange = "{2099, 0}";
+			sepNavVisRange = "{1775, 1632}";
 			sepNavWindowFrame = "{{15, 495}, {750, 558}}";
 		};
 	};
