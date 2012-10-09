@@ -1,0 +1,1473 @@
+TRestKitNetwork
+v7
+r0
+t367185409.672293
+cCheck dependencies
+cCpHeader Build/Debug-iphoneos/../RestKit/Network/Network.h Code/Network/Network.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Network/NSDictionary+RKRequestSerialization.h Code/Network/NSDictionary+RKRequestSerialization.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Network/RKClient.h Code/Network/RKClient.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Network/RKJSONSerialization.h Code/Network/RKJSONSerialization.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Network/RKNotifications.h Code/Network/RKNotifications.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Network/RKParams.h Code/Network/RKParams.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Network/RKParamsAttachment.h Code/Network/RKParamsAttachment.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Network/RKRequest.h Code/Network/RKRequest.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Network/RKRequestSerializable.h Code/Network/RKRequestSerializable.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Network/RKResponse.h Code/Network/RKResponse.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Network/RKReachabilityObserver.h Code/Network/RKReachabilityObserver.h
+cCpHeader Build/Debug-iphoneos/../RestKit/Network/RKRequestQueue.h Code/Network/RKRequestQueue.h
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/NSDictionary+RKRequestSerialization.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSDictionary+RKRequestSerialization.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/NSObject+RKJSONSerialization.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSObject+RKJSONSerialization.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKClient.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKClient.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKJSONSerialization.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKJSONSerialization.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKNotifications.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKNotifications.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKParams.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParams.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKParamsAttachment.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParamsAttachment.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKRequest.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequest.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKResponse.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKResponse.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKURL.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKURL.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKReachabilityObserver.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKReachabilityObserver.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKRequestQueue.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequestQueue.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLibtool /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/libRestKitNetwork.a normal armv6
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/NSDictionary+RKRequestSerialization.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSDictionary+RKRequestSerialization.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/NSObject+RKJSONSerialization.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSObject+RKJSONSerialization.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKClient.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKClient.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKJSONSerialization.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKJSONSerialization.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKNotifications.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKNotifications.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKParams.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParams.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKParamsAttachment.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParamsAttachment.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKRequest.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequest.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKResponse.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKResponse.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKURL.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKURL.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKReachabilityObserver.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKReachabilityObserver.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKRequestQueue.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequestQueue.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLibtool /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/libRestKitNetwork.a normal armv7
+cCreateUniversalBinary /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/libRestKitNetwork.a normal "armv6 armv7"
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC10F8D000000000000046B
+t1287720845
+s1131
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/UTType.h
+c000000004CC110680000000000004B1A
+t1287721064
+s19226
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SCNetworkReachability.h
+c000000004CC10E6A000000000000353E
+t1287720554
+s13630
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004CC10E6A0000000000001A58
+t1287720554
+s6744
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/arpa/inet.h
+c000000004CB3E4790000000000001533
+t1286857849
+s5427
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/netdb.h
+c000000004CB3E4A0000000000000307F
+t1286857888
+s12415
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Network/NSDictionary+RKRequestSerialization.h
+t1345492259
+s416
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Network/Network.h
+t1345492259
+s293
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Network/RKClient.h
+t1345492259
+s7260
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Network/RKJSONSerialization.h
+t1345492259
+s615
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Network/RKNotifications.h
+t1345492259
+s636
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Network/RKParams.h
+t1345492259
+s2394
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Network/RKParamsAttachment.h
+t1345492259
+s2169
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Network/RKReachabilityObserver.h
+t1345492259
+s1408
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Network/RKRequest.h
+t1345492259
+s4722
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Network/RKRequestQueue.h
+t1345492259
+s1402
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Network/RKRequestSerializable.h
+t1345492259
+s1532
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Network/RKResponse.h
+t1345492259
+s4144
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/libRestKitNetwork.a
+t1345492260
+s611432
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/NSDictionary+RKRequestSerialization.o
+t1345492259
+s13256
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/NSObject+RKJSONSerialization.o
+t1345492259
+s6756
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKClient.o
+t1345492259
+s36548
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKJSONSerialization.o
+t1345492259
+s13524
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKNotifications.o
+t1345492259
+s5520
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKParams.o
+t1345492259
+s27040
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKParamsAttachment.o
+t1345492259
+s26776
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKReachabilityObserver.o
+t1345492259
+s20424
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKRequest.o
+t1345492259
+s80548
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKRequestQueue.o
+t1345492259
+s24480
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKResponse.o
+t1345492259
+s36908
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKURL.o
+t1345492259
+s10760
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RestKitNetwork.LinkFileList
+c0000000050329523000000000000063B
+t1345492259
+s1595
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/libRestKitNetwork.a
+t1345492259
+s307592
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/NSDictionary+RKRequestSerialization.o
+t1345492259
+s13232
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/NSObject+RKJSONSerialization.o
+t1345492259
+s6744
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKClient.o
+t1345492259
+s35880
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKJSONSerialization.o
+t1345492259
+s13444
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKNotifications.o
+t1345492259
+s5520
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKParams.o
+t1345492259
+s26604
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKParamsAttachment.o
+t1345492259
+s26212
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKReachabilityObserver.o
+t1345492259
+s20180
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKRequest.o
+t1345492260
+s79572
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKRequestQueue.o
+t1345492259
+s24320
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKResponse.o
+t1345492259
+s36376
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKURL.o
+t1345492259
+s10656
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RestKitNetwork.LinkFileList
+c0000000050329523000000000000063B
+t1345492259
+s1595
+
+N/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/libRestKitNetwork.a
+t1345492260
+s303792
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSDictionary+RKRequestSerialization.h
+c000000004D6E8B1400000000000001A0
+t1299090196
+s416
+i<Foundation/Foundation.h>
+i"RKRequestSerializable.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSDictionary+RKRequestSerialization.m
+c000000004D6E8B140000000000000663
+t1299090196
+s1635
+i"NSDictionary+RKRequestSerialization.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSObject+RKJSONSerialization.m
+c000000004D6E8B140000000000000165
+t1299090196
+s357
+i"NSObject+RKJSONSerialization.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Network/Network.h
+c000000004D6E8B140000000000000125
+t1299090196
+s293
+i"RKClient.h"
+i"RKRequest.h"
+i"RKResponse.h"
+i"RKRequestSerializable.h"
+i"RKReachabilityObserver.h"
+i"RKRequestQueue.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKClient.h
+c000000004D6E8B140000000000001C5C
+t1299090196
+s7260
+i"RKRequest.h"
+i"RKParams.h"
+i"RKResponse.h"
+i"NSDictionary+RKRequestSerialization.h"
+i"RKReachabilityObserver.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKClient.m
+c000000004D6E8B140000000000001EC7
+t1299090196
+s7879
+i"RKClient.h"
+i"RKObjectLoader.h"
+i"RKURL.h"
+i<SystemConfiguration/SCNetworkReachability.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKJSONSerialization.h
+c000000004D6E8B140000000000000267
+t1299090196
+s615
+i"RKRequestSerializable.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKJSONSerialization.m
+c000000004D6E8B14000000000000049A
+t1299090196
+s1178
+i"RKJSONSerialization.h"
+i"NSObject+RKJSONSerialization.h"
+i"RKJSONParser.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKNotifications.h
+c000000004D6E8B14000000000000027C
+t1299090196
+s636
+i<Foundation/Foundation.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKNotifications.m
+c000000004D6E8B1400000000000001AB
+t1299090196
+s427
+i"RKNotifications.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParams.h
+c000000004D6E8B14000000000000095A
+t1299090196
+s2394
+i<Foundation/Foundation.h>
+i"RKRequestSerializable.h"
+i"RKParamsAttachment.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParams.m
+c000000004D6E8B14000000000000168D
+t1299090196
+s5773
+i"RKParams.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParamsAttachment.h
+c000000004D6E8B140000000000000879
+t1299090196
+s2169
+i<Foundation/Foundation.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParamsAttachment.m
+c000000004D6E8B1400000000000015CA
+t1299090196
+s5578
+i<MobileCoreServices/UTType.h>
+i"RKParamsAttachment.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKReachabilityObserver.h
+c000000004D6E8B140000000000000580
+t1299090196
+s1408
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKReachabilityObserver.m
+c000000004D6E8B1400000000000016F9
+t1299090196
+s5881
+i"RKReachabilityObserver.h"
+i<UIKit/UIKit.h>
+i<netdb.h>
+i<arpa/inet.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequest.h
+c000000004D6E8B140000000000001272
+t1299090196
+s4722
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+i"RKRequestSerializable.h"
+i"RKJSONSerialization.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequest.m
+c000000004D6E8B140000000000002524
+t1299090196
+s9508
+i"RKRequest.h"
+i"RKRequestQueue.h"
+i"RKResponse.h"
+i"NSDictionary+RKRequestSerialization.h"
+i"RKNotifications.h"
+i"RKClient.h"
+i"../Support/Support.h"
+i"RKURL.h"
+i<UIKit/UIKit.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequestQueue.h
+c000000004D6E8B14000000000000057A
+t1299090196
+s1402
+i<Foundation/Foundation.h>
+i"RKRequest.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequestQueue.m
+c000000004D6E8B14000000000000111C
+t1299090196
+s4380
+i"RKRequestQueue.h"
+i"RKResponse.h"
+i"RKNotifications.h"
+i"RKClient.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequestSerializable.h
+c000000004D6E8B1400000000000005FC
+t1299090196
+s1532
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKResponse.h
+c000000004D6E8B140000000000001030
+t1299090196
+s4144
+i<Foundation/Foundation.h>
+i"RKRequest.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKResponse.m
+c000000004D6E8B140000000000001BDD
+t1299090196
+s7133
+i"RKResponse.h"
+i"RKNotifications.h"
+i"RKJSONParser.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKURL.h
+c000000004D6E8B140000000000000204
+t1299090196
+s516
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKURL.m
+c000000004D6E8B14000000000000037B
+t1299090196
+s891
+i"RKURL.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/ObjectMapping/RKObjectLoader.h
+c000000004D6E8B140000000000000D80
+t1299090196
+s3456
+i<CoreData/CoreData.h>
+i"../Network/Network.h"
+i"RKObjectMapper.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/ObjectMapping/RKObjectMappable.h
+c000000004D6E8B140000000000000AFD
+t1299090196
+s2813
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/ObjectMapping/RKObjectMapper.h
+c000000004D6E8B1400000000000014A0
+t1299090196
+s5280
+i<Foundation/Foundation.h>
+i"RKObjectMappable.h"
+i"RKObjectPropertyInspector.h"
+i"../Support/RKParser.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/ObjectMapping/RKObjectPropertyInspector.h
+c000000004D6E8B1400000000000001BC
+t1299090196
+s444
+i<Foundation/Foundation.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Support/Errors.h
+c000000004D6E8B140000000000000146
+t1299090196
+s326
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Support/NSDictionary+RKAdditions.h
+c000000004D6E8B140000000000000234
+t1299090196
+s564
+i<Foundation/Foundation.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Support/NSObject+RKJSONSerialization.h
+c000000004D6E8B1400000000000001AD
+t1299090196
+s429
+i"RKJSONSerialization.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Support/Parsers/RKJSONParser.h
+c000000004D6E8B1400000000000000E2
+t1299090196
+s226
+i"RKParser.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Support/RKParser.h
+c000000004D6E8B14000000000000024A
+t1299090196
+s586
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch
+c000000004D6E8B1400000000000000BC
+t1299090196
+s188
+i<Foundation/Foundation.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/Code/Support/Support.h
+c000000004D6E8B1400000000000000BB
+t1299090196
+s187
+i"Errors.h"
+i"NSDictionary+RKAdditions.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/Debug-iphoneos/../RestKit/Network/NSDictionary+RKRequestSerialization.h
+t1345492259
+s416
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/Debug-iphoneos/../RestKit/Network/Network.h
+t1345492259
+s293
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/Debug-iphoneos/../RestKit/Network/RKClient.h
+t1345492259
+s7260
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/Debug-iphoneos/../RestKit/Network/RKJSONSerialization.h
+t1345492259
+s615
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/Debug-iphoneos/../RestKit/Network/RKNotifications.h
+t1345492259
+s636
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/Debug-iphoneos/../RestKit/Network/RKParams.h
+t1345492259
+s2394
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/Debug-iphoneos/../RestKit/Network/RKParamsAttachment.h
+t1345492259
+s2169
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/Debug-iphoneos/../RestKit/Network/RKReachabilityObserver.h
+t1345492259
+s1408
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/Debug-iphoneos/../RestKit/Network/RKRequest.h
+t1345492259
+s4722
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/Debug-iphoneos/../RestKit/Network/RKRequestQueue.h
+t1345492259
+s1402
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/Debug-iphoneos/../RestKit/Network/RKRequestSerializable.h
+t1345492259
+s1532
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/Debug-iphoneos/../RestKit/Network/RKResponse.h
+t1345492259
+s4144
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/Debug-iphoneos/libRestKitNetwork.a
+t1345492260
+s611432
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/NSDictionary+RKRequestSerialization.o
+t1345492259
+s13256
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/NSObject+RKJSONSerialization.o
+t1345492259
+s6756
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKClient.o
+t1345492259
+s36548
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKJSONSerialization.o
+t1345492259
+s13524
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKNotifications.o
+t1345492259
+s5520
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKParams.o
+t1345492259
+s27040
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKParamsAttachment.o
+t1345492259
+s26776
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKReachabilityObserver.o
+t1345492259
+s20424
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKRequest.o
+t1345492259
+s80548
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKRequestQueue.o
+t1345492259
+s24480
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKResponse.o
+t1345492259
+s36908
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKURL.o
+t1345492259
+s10760
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RestKitNetwork.LinkFileList
+c0000000050329523000000000000063B
+t1345492259
+s1595
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/libRestKitNetwork.a
+t1345492259
+s307592
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/NSDictionary+RKRequestSerialization.o
+t1345492259
+s13232
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/NSObject+RKJSONSerialization.o
+t1345492259
+s6744
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKClient.o
+t1345492259
+s35880
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKJSONSerialization.o
+t1345492259
+s13444
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKNotifications.o
+t1345492259
+s5520
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKParams.o
+t1345492259
+s26604
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKParamsAttachment.o
+t1345492259
+s26212
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKReachabilityObserver.o
+t1345492259
+s20180
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKRequest.o
+t1345492260
+s79572
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKRequestQueue.o
+t1345492259
+s24320
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKResponse.o
+t1345492259
+s36376
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKURL.o
+t1345492259
+s10656
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RestKitNetwork.LinkFileList
+c0000000050329523000000000000063B
+t1345492259
+s1595
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/libRestKitNetwork.a
+t1345492260
+s303792
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/NSDictionary+RKRequestSerialization.h
+c000000004D6E8B1400000000000001A0
+t1299090196
+s416
+i<Foundation/Foundation.h>
+i"RKRequestSerializable.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/NSDictionary+RKRequestSerialization.m
+c000000004D6E8B140000000000000663
+t1299090196
+s1635
+i"NSDictionary+RKRequestSerialization.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/NSObject+RKJSONSerialization.m
+c000000004D6E8B140000000000000165
+t1299090196
+s357
+i"NSObject+RKJSONSerialization.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/Network.h
+c000000004D6E8B140000000000000125
+t1299090196
+s293
+i"RKClient.h"
+i"RKRequest.h"
+i"RKResponse.h"
+i"RKRequestSerializable.h"
+i"RKReachabilityObserver.h"
+i"RKRequestQueue.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKClient.h
+c000000004D6E8B140000000000001C5C
+t1299090196
+s7260
+i"RKRequest.h"
+i"RKParams.h"
+i"RKResponse.h"
+i"NSDictionary+RKRequestSerialization.h"
+i"RKReachabilityObserver.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKClient.m
+c000000004D6E8B140000000000001EC7
+t1299090196
+s7879
+i"RKClient.h"
+i"RKObjectLoader.h"
+i"RKURL.h"
+i<SystemConfiguration/SCNetworkReachability.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKJSONSerialization.h
+c000000004D6E8B140000000000000267
+t1299090196
+s615
+i"RKRequestSerializable.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKJSONSerialization.m
+c000000004D6E8B14000000000000049A
+t1299090196
+s1178
+i"RKJSONSerialization.h"
+i"NSObject+RKJSONSerialization.h"
+i"RKJSONParser.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKNotifications.h
+c000000004D6E8B14000000000000027C
+t1299090196
+s636
+i<Foundation/Foundation.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKNotifications.m
+c000000004D6E8B1400000000000001AB
+t1299090196
+s427
+i"RKNotifications.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKParams.h
+c000000004D6E8B14000000000000095A
+t1299090196
+s2394
+i<Foundation/Foundation.h>
+i"RKRequestSerializable.h"
+i"RKParamsAttachment.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKParams.m
+c000000004D6E8B14000000000000168D
+t1299090196
+s5773
+i"RKParams.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKParamsAttachment.h
+c000000004D6E8B140000000000000879
+t1299090196
+s2169
+i<Foundation/Foundation.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKParamsAttachment.m
+c000000004D6E8B1400000000000015CA
+t1299090196
+s5578
+i<MobileCoreServices/UTType.h>
+i"RKParamsAttachment.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKReachabilityObserver.h
+c000000004D6E8B140000000000000580
+t1299090196
+s1408
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKReachabilityObserver.m
+c000000004D6E8B1400000000000016F9
+t1299090196
+s5881
+i"RKReachabilityObserver.h"
+i<UIKit/UIKit.h>
+i<netdb.h>
+i<arpa/inet.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKRequest.h
+c000000004D6E8B140000000000001272
+t1299090196
+s4722
+i<Foundation/Foundation.h>
+i<CoreData/CoreData.h>
+i"RKRequestSerializable.h"
+i"RKJSONSerialization.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKRequest.m
+c000000004D6E8B140000000000002524
+t1299090196
+s9508
+i"RKRequest.h"
+i"RKRequestQueue.h"
+i"RKResponse.h"
+i"NSDictionary+RKRequestSerialization.h"
+i"RKNotifications.h"
+i"RKClient.h"
+i"../Support/Support.h"
+i"RKURL.h"
+i<UIKit/UIKit.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKRequestQueue.h
+c000000004D6E8B14000000000000057A
+t1299090196
+s1402
+i<Foundation/Foundation.h>
+i"RKRequest.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKRequestQueue.m
+c000000004D6E8B14000000000000111C
+t1299090196
+s4380
+i"RKRequestQueue.h"
+i"RKResponse.h"
+i"RKNotifications.h"
+i"RKClient.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKRequestSerializable.h
+c000000004D6E8B1400000000000005FC
+t1299090196
+s1532
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKResponse.h
+c000000004D6E8B140000000000001030
+t1299090196
+s4144
+i<Foundation/Foundation.h>
+i"RKRequest.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKResponse.m
+c000000004D6E8B140000000000001BDD
+t1299090196
+s7133
+i"RKResponse.h"
+i"RKNotifications.h"
+i"RKJSONParser.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKURL.h
+c000000004D6E8B140000000000000204
+t1299090196
+s516
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKURL.m
+c000000004D6E8B14000000000000037B
+t1299090196
+s891
+i"RKURL.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/ObjectMapping/RKObjectLoader.h
+c000000004D6E8B140000000000000D80
+t1299090196
+s3456
+i<CoreData/CoreData.h>
+i"../Network/Network.h"
+i"RKObjectMapper.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/ObjectMapping/RKObjectMappable.h
+c000000004D6E8B140000000000000AFD
+t1299090196
+s2813
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/ObjectMapping/RKObjectMapper.h
+c000000004D6E8B1400000000000014A0
+t1299090196
+s5280
+i<Foundation/Foundation.h>
+i"RKObjectMappable.h"
+i"RKObjectPropertyInspector.h"
+i"../Support/RKParser.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/ObjectMapping/RKObjectPropertyInspector.h
+c000000004D6E8B1400000000000001BC
+t1299090196
+s444
+i<Foundation/Foundation.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Support/Errors.h
+c000000004D6E8B140000000000000146
+t1299090196
+s326
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Support/NSDictionary+RKAdditions.h
+c000000004D6E8B140000000000000234
+t1299090196
+s564
+i<Foundation/Foundation.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Support/NSObject+RKJSONSerialization.h
+c000000004D6E8B1400000000000001AD
+t1299090196
+s429
+i"RKJSONSerialization.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Support/Parsers/RKJSONParser.h
+c000000004D6E8B1400000000000000E2
+t1299090196
+s226
+i"RKParser.h"
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Support/RKParser.h
+c000000004D6E8B14000000000000024A
+t1299090196
+s586
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Support/RestKit_Prefix.pch
+c000000004D6E8B1400000000000000BC
+t1299090196
+s188
+i<Foundation/Foundation.h>
+
+N/Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Support/Support.h
+c000000004D6E8B1400000000000000BB
+t1299090196
+s187
+i"Errors.h"
+i"NSDictionary+RKAdditions.h"
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies367185409#367185409#0(0"0(0#1#0"8624005088#0"0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/NSDictionary+RKRequestSerialization.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSDictionary+RKRequestSerialization.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185059.235590
+e367185059.687542
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/NSDictionary+RKRequestSerialization.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSDictionary+RKRequestSerialization.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSDictionary+RKRequestSerialization.m367185059#367185059#0(0"0(0#0#87"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSDictionary+RKRequestSerialization.m8612349568#1742"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSDictionary+RKRequestSerialization.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/NSDictionary+RKRequestSerialization.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/NSDictionary+RKRequestSerialization.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/NSDictionary+RKRequestSerialization.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/NSObject+RKJSONSerialization.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSObject+RKJSONSerialization.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185059.236519
+e367185059.651964
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/NSObject+RKJSONSerialization.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSObject+RKJSONSerialization.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSObject+RKJSONSerialization.m367185059#367185059#0(0"0(0#0#80"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSObject+RKJSONSerialization.m8606708960#1728"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSObject+RKJSONSerialization.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/NSObject+RKJSONSerialization.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/NSObject+RKJSONSerialization.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/NSObject+RKJSONSerialization.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKClient.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKClient.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185059.237374
+e367185059.799532
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKClient.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKClient.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKClient.m367185059#367185059#0(0"0(0#0#60"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKClient.m8602062784#1688"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKClient.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKClient.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKClient.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKClient.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKJSONSerialization.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKJSONSerialization.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185059.238232
+e367185059.672821
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKJSONSerialization.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKJSONSerialization.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKJSONSerialization.m367185059#367185059#0(0"0(0#0#71"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKJSONSerialization.m8614229120#1710"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKJSONSerialization.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKJSONSerialization.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKJSONSerialization.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKJSONSerialization.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKNotifications.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKNotifications.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185059.239120
+e367185059.648020
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKNotifications.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKNotifications.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKNotifications.m367185059#367185059#0(0"0(0#0#67"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKNotifications.m8613580000#1702"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKNotifications.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKNotifications.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKNotifications.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKNotifications.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKParams.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParams.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185059.240062
+e367185059.729908
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKParams.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParams.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParams.m367185059#367185059#0(0"0(0#0#60"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParams.m8612279392#1688"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParams.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKParams.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKParams.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKParams.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKParamsAttachment.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParamsAttachment.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185059.241089
+e367185059.734980
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKParamsAttachment.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParamsAttachment.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParamsAttachment.m367185059#367185059#0(0"0(0#0#70"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParamsAttachment.m8614397504#1708"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParamsAttachment.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKParamsAttachment.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKParamsAttachment.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKParamsAttachment.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKReachabilityObserver.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKReachabilityObserver.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185059.244851
+e367185059.850839
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKReachabilityObserver.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKReachabilityObserver.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKReachabilityObserver.m367185059#367185059#0(0"0(0#0#74"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKReachabilityObserver.m8614954432#1716"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKReachabilityObserver.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKReachabilityObserver.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKReachabilityObserver.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKReachabilityObserver.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKRequest.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequest.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185059.241996
+e367185059.911393
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKRequest.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequest.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequest.m367185059#367185059#0(0"0(0#0#61"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequest.m8617160736#1690"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequest.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKRequest.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKRequest.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKRequest.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKRequestQueue.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequestQueue.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185059.245761
+e367185059.752542
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKRequestQueue.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequestQueue.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequestQueue.m367185059#367185059#0(0"0(0#0#66"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequestQueue.m8614460160#1700"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequestQueue.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKRequestQueue.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKRequestQueue.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKRequestQueue.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKResponse.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKResponse.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185059.242997
+e367185059.776050
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKResponse.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKResponse.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKResponse.m367185059#367185059#0(0"0(0#0#62"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKResponse.m8616445760#1692"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKResponse.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKResponse.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKResponse.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKResponse.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKURL.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKURL.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s367185059.243921
+e367185059.670151
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKURL.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKURL.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKURL.m367185059#367185059#0(0"0(0#0#57"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKURL.m8615096288#1682"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources/armv6 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKURL.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKURL.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RKURL.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKURL.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/NSDictionary+RKRequestSerialization.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSDictionary+RKRequestSerialization.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185059.246747
+e367185059.688107
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/NSDictionary+RKRequestSerialization.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSDictionary+RKRequestSerialization.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSDictionary+RKRequestSerialization.m367185059#367185059#0(0"0(0#0#87"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSDictionary+RKRequestSerialization.m8614129760#1742"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSDictionary+RKRequestSerialization.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/NSDictionary+RKRequestSerialization.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/NSDictionary+RKRequestSerialization.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/NSDictionary+RKRequestSerialization.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/NSObject+RKJSONSerialization.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSObject+RKJSONSerialization.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185059.247755
+e367185059.655956
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/NSObject+RKJSONSerialization.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSObject+RKJSONSerialization.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSObject+RKJSONSerialization.m367185059#367185059#0(0"0(0#0#80"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSObject+RKJSONSerialization.m8613994016#1728"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSObject+RKJSONSerialization.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/NSObject+RKJSONSerialization.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/NSObject+RKJSONSerialization.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/NSObject+RKJSONSerialization.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKClient.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKClient.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185059.253674
+e367185059.799186
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKClient.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKClient.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKClient.m367185059#367185059#0(0"0(0#0#60"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKClient.m8613563040#1688"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKClient.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKClient.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKClient.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKClient.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKJSONSerialization.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKJSONSerialization.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185059.255785
+e367185059.676063
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKJSONSerialization.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKJSONSerialization.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKJSONSerialization.m367185059#367185059#0(0"0(0#0#71"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKJSONSerialization.m8616555840#1710"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKJSONSerialization.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKJSONSerialization.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKJSONSerialization.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKJSONSerialization.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKNotifications.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKNotifications.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185059.648454
+e367185059.841007
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKNotifications.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKNotifications.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKNotifications.m367185059#367185059#0(0"0(0#0#67"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKNotifications.m8613886176#1702"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKNotifications.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKNotifications.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKNotifications.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKNotifications.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKParams.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParams.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185059.652118
+e367185059.884959
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKParams.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParams.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParams.m367185059#367185059#0(0"0(0#0#60"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParams.m8610081280#1688"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParams.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKParams.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKParams.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKParams.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKParamsAttachment.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParamsAttachment.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185059.656116
+e367185059.882305
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKParamsAttachment.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParamsAttachment.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParamsAttachment.m367185059#367185059#0(0"0(0#0#70"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParamsAttachment.m8613278528#1708"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParamsAttachment.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKParamsAttachment.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKParamsAttachment.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKParamsAttachment.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKReachabilityObserver.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKReachabilityObserver.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185059.688337
+e367185059.953294
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKReachabilityObserver.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKReachabilityObserver.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKReachabilityObserver.m367185059#367185059#0(0"0(0#0#74"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKReachabilityObserver.m8613295392#1716"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKReachabilityObserver.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKReachabilityObserver.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKReachabilityObserver.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKReachabilityObserver.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKRequest.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequest.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185059.670346
+e367185060.008099
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKRequest.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequest.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequest.m367185059#367185060#0(0"0(0#0#61"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequest.m8614196192#1690"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequest.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKRequest.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKRequest.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKRequest.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKRequestQueue.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequestQueue.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185059.690558
+e367185059.923700
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKRequestQueue.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequestQueue.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequestQueue.m367185059#367185059#0(0"0(0#0#66"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequestQueue.m8616357472#1700"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequestQueue.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKRequestQueue.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKRequestQueue.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKRequestQueue.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKResponse.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKResponse.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185059.677199
+e367185059.924804
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKResponse.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKResponse.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKResponse.m367185059#367185059#0(0"0(0#0#62"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKResponse.m8613873152#1692"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKResponse.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKResponse.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKResponse.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKResponse.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKURL.o /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKURL.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s367185059.685834
+e367185059.876669
+r1
+xCompileC
+xBuild/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKURL.o
+x/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKURL.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKURL.m367185059#367185059#0(0"0(0#0#57"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKURL.m8614571424#1682"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-generated-files.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-own-target-headers.hmap -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-all-target-headers.hmap -iquote /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/RestKitNetwork-project-headers.hmap -F/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -I/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/include -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources/armv7 -I/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/DerivedSources -include /Users/caina/Desktop/WTWBA/Libraries/Code/Support/RestKit_Prefix.pch -c /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKURL.m -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKURL.o0#
+
+CCompileC Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RKURL.o /Users/caina/Desktop/WTWBA/Libraries/RestKit/Code/Network/RKURL.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Network/NSDictionary+RKRequestSerialization.h Code/Network/NSDictionary+RKRequestSerialization.h
+s367185059.217763
+e367185059.228988
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Network/NSDictionary+RKRequestSerialization.h
+xCode/Network/NSDictionary+RKRequestSerialization.h
+lSLF07#2@55"Copy Code/Network/NSDictionary+RKRequestSerialization.h367185059#367185059#0(0"0(0#0#87"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSDictionary+RKRequestSerialization.h8612534592#495"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Code/Network/NSDictionary+RKRequestSerialization.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Network0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Network/Network.h Code/Network/Network.h
+s367185059.216627
+e367185059.228805
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Network/Network.h
+xCode/Network/Network.h
+lSLF07#2@27"Copy Code/Network/Network.h367185059#367185059#0(0"0(0#0#59"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/Network.h8613946816#467"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Code/Network/Network.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Network0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Network/RKClient.h Code/Network/RKClient.h
+s367185059.218451
+e367185059.229140
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Network/RKClient.h
+xCode/Network/RKClient.h
+lSLF07#2@28"Copy Code/Network/RKClient.h367185059#367185059#0(0"0(0#0#60"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKClient.h8606127584#468"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKClient.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Network0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Network/RKJSONSerialization.h Code/Network/RKJSONSerialization.h
+s367185059.219199
+e367185059.229276
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Network/RKJSONSerialization.h
+xCode/Network/RKJSONSerialization.h
+lSLF07#2@39"Copy Code/Network/RKJSONSerialization.h367185059#367185059#0(0"0(0#0#71"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKJSONSerialization.h8613368448#479"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKJSONSerialization.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Network0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Network/RKNotifications.h Code/Network/RKNotifications.h
+s367185059.219900
+e367185059.229423
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Network/RKNotifications.h
+xCode/Network/RKNotifications.h
+lSLF07#2@35"Copy Code/Network/RKNotifications.h367185059#367185059#0(0"0(0#0#67"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKNotifications.h8612852992#475"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKNotifications.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Network0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Network/RKParams.h Code/Network/RKParams.h
+s367185059.220555
+e367185059.229574
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Network/RKParams.h
+xCode/Network/RKParams.h
+lSLF07#2@28"Copy Code/Network/RKParams.h367185059#367185059#0(0"0(0#0#60"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParams.h8616882400#468"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParams.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Network0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Network/RKParamsAttachment.h Code/Network/RKParamsAttachment.h
+s367185059.221221
+e367185059.229723
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Network/RKParamsAttachment.h
+xCode/Network/RKParamsAttachment.h
+lSLF07#2@38"Copy Code/Network/RKParamsAttachment.h367185059#367185059#0(0"0(0#0#70"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParamsAttachment.h8613298752#478"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKParamsAttachment.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Network0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Network/RKReachabilityObserver.h Code/Network/RKReachabilityObserver.h
+s367185059.230107
+e367185059.234840
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Network/RKReachabilityObserver.h
+xCode/Network/RKReachabilityObserver.h
+lSLF07#2@42"Copy Code/Network/RKReachabilityObserver.h367185059#367185059#0(0"0(0#0#74"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKReachabilityObserver.h8616926816#482"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKReachabilityObserver.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Network0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Network/RKRequest.h Code/Network/RKRequest.h
+s367185059.221950
+e367185059.229858
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Network/RKRequest.h
+xCode/Network/RKRequest.h
+lSLF07#2@29"Copy Code/Network/RKRequest.h367185059#367185059#0(0"0(0#0#61"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequest.h8613623872#469"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequest.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Network0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Network/RKRequestQueue.h Code/Network/RKRequestQueue.h
+s367185059.230917
+e367185059.235480
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Network/RKRequestQueue.h
+xCode/Network/RKRequestQueue.h
+lSLF07#2@34"Copy Code/Network/RKRequestQueue.h367185059#367185059#0(0"0(0#0#66"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequestQueue.h8614974048#474"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequestQueue.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Network0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Network/RKRequestSerializable.h Code/Network/RKRequestSerializable.h
+s367185059.222615
+e367185059.230002
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Network/RKRequestSerializable.h
+xCode/Network/RKRequestSerializable.h
+lSLF07#2@41"Copy Code/Network/RKRequestSerializable.h367185059#367185059#0(0"0(0#0#73"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequestSerializable.h8614942240#481"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKRequestSerializable.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Network0#
+
+CCpHeader Build/Debug-iphoneos/../RestKit/Network/RKResponse.h Code/Network/RKResponse.h
+s367185059.223343
+e367185059.232509
+r1
+xCpHeader
+xBuild/Debug-iphoneos/../RestKit/Network/RKResponse.h
+xCode/Network/RKResponse.h
+lSLF07#2@30"Copy Code/Network/RKResponse.h367185059#367185059#0(0"0(0#0#62"/Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKResponse.h8616786304#470"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/caina/Desktop/WTWBA/Libraries/Code/Network/RKResponse.h /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/../RestKit/Network0#
+
+CCreateUniversalBinary /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/libRestKitNetwork.a normal "armv6 armv7"
+s367185060.019625
+e367185060.046292
+r1
+xCreateUniversalBinary
+x/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/libRestKitNetwork.a
+xnormal
+xarmv6 armv7
+lSLF07#2@83"CreateUniversalBinary Build/Debug-iphoneos/libRestKitNetwork.a normal "armv6 armv7"367185060#367185060#0(0"0(0#0#48"/Users/caina/Desktop/WTWBA/Libraries/armv6 armv78614763488#594"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/libRestKitNetwork.a /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/libRestKitNetwork.a -o /Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos/libRestKitNetwork.a0#
+
+CCreateUniversalBinary /Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/Debug-iphoneos/libRestKitNetwork.a normal "armv6 armv7"
+r0
+
+CLibtool /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/libRestKitNetwork.a normal armv6
+s367185059.911500
+e367185059.948611
+r1
+xLibtool
+x/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/libRestKitNetwork.a
+xnormal
+xarmv6
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@117"Libtool Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/libRestKitNetwork.a normal armv6367185059#367185059#0(129"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8614251776#741"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv6 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -filelist /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/RestKitNetwork.LinkFileList -ObjC -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/libRestKitNetwork.a0#
+
+CLibtool /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/libRestKitNetwork.a normal armv7
+s367185060.008203
+e367185060.019549
+r1
+xLibtool
+x/Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/libRestKitNetwork.a
+xnormal
+xarmv7
+o/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF07#2@117"Libtool Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/libRestKitNetwork.a normal armv7367185060#367185060#0(129"/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 0(0#0#0"8616876320#741"    cd /Users/caina/Desktop/WTWBA/Libraries    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/libtool -static -arch_only armv7 -syslibroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/caina/Desktop/WTWBA/Libraries/Build/Debug-iphoneos -filelist /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/RestKitNetwork.LinkFileList -ObjC -o /Users/caina/Desktop/WTWBA/Libraries/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/libRestKitNetwork.a0#
+
+CLibtool /Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv6/libRestKitNetwork.a normal armv6
+r0
+
+CLibtool /Users/caina/Desktop/WTWBA/Libraries/RestKit/Build/RestKit.build/Debug-iphoneos/RestKitNetwork.build/Objects-normal/armv7/libRestKitNetwork.a normal armv7
+r0
+
