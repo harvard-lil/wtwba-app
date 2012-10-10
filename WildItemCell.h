@@ -9,11 +9,13 @@
 #import <Foundation/Foundation.h>
 
 @interface WildItemCell : UITableViewCell
+
 @property (weak, nonatomic) IBOutlet UILabel *titleLabel;
 
 @property (weak, nonatomic) IBOutlet UILabel *dueDateLabel;
 
 @property (weak, nonatomic) IBOutlet UILabel *daysUntilDueLabel;
 
+@property (weak, nonatomic) IBOutlet UIImageView *imageView;
 
 @end

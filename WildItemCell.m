@@ -9,6 +9,6 @@
 #import "WildItemCell.h"
 
 @implementation WildItemCell
-@synthesize titleLabel, dueDateLabel;
+@synthesize titleLabel, dueDateLabel, imageView;
 
 @end

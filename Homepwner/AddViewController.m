@@ -13,12 +13,14 @@
 #import <RestKit/RestKit.h>
 #import "WildNewItem.h"
 
+NSString *barcode;
+
 @interface AddViewController ()
 
 @end
 
 @implementation AddViewController
-@synthesize item, dismissBlock, resultImage, resultText;
+@synthesize item, dismissBlock, resultText;
 
 - (void)viewDidLoad
 {
@@ -43,7 +45,7 @@
     [[self view] endEditing:YES];
     // "Save" changes to item
     [item setItemName:[nameField text]];
-    [item setSerialNumber:[serialNumberField text]];
+    [item setSerialNumber:barcode];
     [item setValueInDollars:[[valueField text] intValue]];
     NSDate *dueDate;
     
@@ -55,7 +57,6 @@
 
 - (void)viewDidUnload {
     nameField = nil;
-    serialNumberField = nil;
     valueField = nil;
     dateLabel = nil;
     imageView = nil;
@@ -145,8 +146,8 @@
         break;
     
     // EXAMPLE: do something useful with the barcode data
-    resultText.text = @"Retrieving title...";
-    [serialNumberField setText:symbol.data];
+    resultText.text = @"Retrieving info...";
+    barcode = symbol.data;
     
     /*NSURL *posturl = [NSURL URLWithString:@"http://hlsl10.law.harvard.edu/dev/annie/wtwba/add.php"];
     _client = [[RKClient alloc] initWithBaseURL:posturl];
@@ -168,6 +169,7 @@
     RKObjectMapping *libraryBookMapping = [RKObjectMapping mappingForClass:[WildNewItem class]];
     [libraryBookMapping mapKeyPathsToAttributes:@"title", @"title", nil];
     [libraryBookMapping mapKeyPathsToAttributes:@"due", @"due", nil];
+    [libraryBookMapping mapKeyPathsToAttributes:@"isbn", @"isbn", nil];
     [_objectManager.mappingProvider setMapping:libraryBookMapping forKeyPath:@""];
     
     //[self sendRequest];
@@ -179,10 +181,6 @@
     
     RKURL *URL = [RKURL URLWithBaseURL:[_objectManager baseURL] resourcePath:@"" queryParameters:queryParams];
     [_objectManager loadObjectsAtResourcePath:[NSString stringWithFormat:@"%@?%@", [URL resourcePath], [URL query]] delegate:self];
-    
-    // EXAMPLE: do something useful with the barcode image
-    resultImage.image =
-    [info objectForKey: UIImagePickerControllerOriginalImage];
     
     // ADD: dismiss the controller (NB dismiss from the *reader*!)
     [reader dismissModalViewControllerAnimated: YES];
@@ -197,12 +195,39 @@
 {
     WildNewItem *myItem = (WildNewItem*)[objects objectAtIndex:0];
     nameField.text = myItem.title;
-    dateLabel.text = myItem.due;
+    dateLabel.text = @"Not checked out";
     resultText.text = @"Got it!";
     NSLog(@"objects %@", myItem.title);
     NSDate *dueDate = nil;
     
+    if([myItem.isbn length] > 0){
+        NSMutableString *imageURLString = [[NSMutableString alloc] initWithString:@"http://covers.openlibrary.org/b/isbn/"];
+        [imageURLString appendString:myItem.isbn];
+        [imageURLString appendString:@"-M.jpg"];
+
+        NSURL * imageURL = [NSURL URLWithString:imageURLString];
+        NSData * imageData = [NSData dataWithContentsOfURL:imageURL];
+        UIImage * image = [UIImage imageWithData:imageData];
+        NSLog(@"MyImage size in bytes:%i",[UIImagePNGRepresentation(image) length]);
+        
+        imageView.image = image;
+        // Create a CFUUID object - it knows how to create unique identifier strings
+        CFUUIDRef newUniqueID = CFUUIDCreate(kCFAllocatorDefault);
+        // Create a string from unique identifier
+        CFStringRef newUniqueIDString =
+        CFUUIDCreateString (kCFAllocatorDefault, newUniqueID);
+        // Use that unique ID to set our item's imageKey
+        NSString *key = (__bridge NSString *)newUniqueIDString;
+        [item setImageKey:key];
+        // Store image in the BNRImageStore with this key
+        [[BNRImageStore sharedStore] setImage:image
+                                       forKey:[item imageKey]];
+        CFRelease(newUniqueIDString);
+        CFRelease(newUniqueID);
+    }
+    
     if([myItem.due length] > 0){
+        dateLabel.text = myItem.due;
         NSDateFormatter *formatter = [[NSDateFormatter alloc] init];
         [formatter setDateFormat:@"MM/dd/yyyy hh:mm a"];
         dueDate = [formatter dateFromString:myItem.due];

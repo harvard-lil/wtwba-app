@@ -9,6 +9,6 @@
 #import "WildNewItem.h"
 
 @implementation WildNewItem
-@synthesize title, due;
+@synthesize title, due, isbn;
 
 @end

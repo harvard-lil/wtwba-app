@@ -15,12 +15,10 @@
 @interface AddViewController : UIViewController <UINavigationControllerDelegate, UIImagePickerControllerDelegate, UITextFieldDelegate, ZBarReaderDelegate, RKRequestDelegate, RKObjectLoaderDelegate>
 {
     __weak IBOutlet UITextField *nameField;
-    __weak IBOutlet UITextField *serialNumberField;
     __weak IBOutlet UITextField *valueField;
     __weak IBOutlet UILabel *dateLabel;
     __weak IBOutlet UIImageView *imageView;
     
-    UIImageView *resultImage;
     UILabel *resultText;
     
     RKObjectManager *_objectManager;

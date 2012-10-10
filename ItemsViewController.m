@@ -9,6 +9,7 @@
 #import "ItemsViewController.h"
 #import "BNRItemStore.h"
 #import "BNRItem.h"
+#import "BNRImageStore.h"
 #import "WildUsageItemStore.h"
 #import "WildUsageItem.h"
 #import <RestKit/RestKit.h>
@@ -127,40 +128,54 @@ WildUsageItem *w;
     WildItemCell *cell = [tableView
                                dequeueReusableCellWithIdentifier:@"WildItemCell"];
     // Configure the cell with the BNRItem
-    CGSize labelSize = CGSizeMake(250, 50);
+    CGSize labelSize = CGSizeMake(225, 42);
     CGSize theStringSize = [[p itemName] sizeWithFont:cell.titleLabel.font constrainedToSize:labelSize lineBreakMode:cell.titleLabel.lineBreakMode];
     cell.titleLabel.frame = CGRectMake(cell.titleLabel.frame.origin.x, cell.titleLabel.frame.origin.y, theStringSize.width, theStringSize.height);
     cell.titleLabel.text = [p itemName];
     if([p dateCreated]) {
-    NSDateFormatter *dateFormatter = [[NSDateFormatter alloc] init];
-    [dateFormatter setDateStyle:NSDateFormatterMediumStyle];
-    [dateFormatter setTimeStyle:NSDateFormatterNoStyle];
-    // Use filtered NSDate object to set dateLabel contents
-    //resultText.text = [dateFormatter stringFromDate:dueDate];
-    [[cell dueDateLabel] setText:[dateFormatter stringFromDate:[p dateCreated]]];
+        cell.daysUntilDueLabel.textColor = [UIColor darkGrayColor];
+        NSDateFormatter *dateFormatter = [[NSDateFormatter alloc] init];
+        [dateFormatter setDateStyle:NSDateFormatterMediumStyle];
+        [dateFormatter setTimeStyle:NSDateFormatterNoStyle];
+        // Use filtered NSDate object to set dateLabel contents
+        //resultText.text = [dateFormatter stringFromDate:dueDate];
+        [[cell dueDateLabel] setText:[dateFormatter stringFromDate:[p dateCreated]]];
     
-    NSDateFormatter *formatter = [[NSDateFormatter alloc] init];
-    [formatter setDateFormat:@"dd-MM-yyyy"];
-    NSDate *startDate = [NSDate date];
-    NSDate *endDate = [p dateCreated];
+        NSDateFormatter *formatter = [[NSDateFormatter alloc] init];
+        [formatter setDateFormat:@"dd-MM-yyyy"];
+        NSDate *startDate = [NSDate date];
+        NSDate *endDate = [p dateCreated];
     
-    // This performs the difference calculation
-    unsigned flags = NSDayCalendarUnit;
-    NSDateComponents *difference = [[NSCalendar currentCalendar] components:flags fromDate:startDate toDate:endDate options:0];
-    NSString *daysLeft = [NSString stringWithFormat:@"%d", [difference day]];
-    NSMutableString *dueDateString = [[NSMutableString alloc] initWithString:@"Due in "];
-    [dueDateString appendString:daysLeft];
-    [dueDateString appendString:@" days"];
-    cell.daysUntilDueLabel.text = dueDateString;
-    if([difference day] <= 5) {
-        cell.daysUntilDueLabel.textColor = [UIColor redColor];
-    }
+        // This performs the difference calculation
+        unsigned flags = NSDayCalendarUnit;
+        NSDateComponents *difference = [[NSCalendar currentCalendar] components:flags fromDate:startDate toDate:endDate options:0];
+        NSString *daysLeft = [NSString stringWithFormat:@"%d", [difference day]];
+        NSMutableString *dueDateString = [[NSMutableString alloc] initWithString:@"Due in "];
+        [dueDateString appendString:daysLeft];
+        [dueDateString appendString:@" days"];
+        cell.daysUntilDueLabel.text = dueDateString;
+        if([difference day] <= 5) {
+            cell.daysUntilDueLabel.textColor = [UIColor orangeColor];
+        }
     }
     else {
         cell.dueDateLabel.text = @"";
         cell.daysUntilDueLabel.text = @"Not checked out";
+        cell.daysUntilDueLabel.textColor = [UIColor lightGrayColor];
     }
-    //NSLog(@"%@", dueDateString);
+    NSString *imageKey = [p imageKey];
+    if (imageKey) {
+        // Get image for image key from image store
+        UIImage *imageToDisplay =
+        [[BNRImageStore sharedStore] imageForKey:imageKey];
+        // Use that image to put on the screen in imageView
+        if([UIImagePNGRepresentation(imageToDisplay) length] > 100) {
+            [cell.imageView setImage:imageToDisplay];
+        }
+    } else {
+        // Clear the imageView
+        //[cell.imageView setImage:[UIImage imageNamed:@"book-cover.png"]];
+    }
     return cell;
 }
 

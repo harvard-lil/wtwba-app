@@ -13,6 +13,7 @@
 		A438079B15F651EF007B355C /* DetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A438079915F651EF007B355C /* DetailViewController.xib */; };
 		A438079E15F68945007B355C /* BNRImageStore.m in Sources */ = {isa = PBXBuildFile; fileRef = A438079D15F68944007B355C /* BNRImageStore.m */; };
 		A44D297D162477A5009CA135 /* grass.png in Resources */ = {isa = PBXBuildFile; fileRef = A44D297C162477A5009CA135 /* grass.png */; };
+		A44D29881625DCE0009CA135 /* book-cover.png in Resources */ = {isa = PBXBuildFile; fileRef = A44D29871625DCE0009CA135 /* book-cover.png */; };
 		A457D82515F93D0600698722 /* wildBooks-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = A457D82415F93D0600698722 /* wildBooks-icon.png */; };
 		A457D82F15FA2BCF00698722 /* AddViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A457D82D15FA2BCF00698722 /* AddViewController.m */; };
 		A457D87615FA338C00698722 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A457D87515FA338C00698722 /* AVFoundation.framework */; };
@@ -102,6 +103,7 @@
 		A438079C15F68944007B355C /* BNRImageStore.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BNRImageStore.h; sourceTree = "<group>"; };
 		A438079D15F68944007B355C /* BNRImageStore.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BNRImageStore.m; sourceTree = "<group>"; };
 		A44D297C162477A5009CA135 /* grass.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = grass.png; sourceTree = "<group>"; };
+		A44D29871625DCE0009CA135 /* book-cover.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "book-cover.png"; sourceTree = "<group>"; };
 		A457D82415F93D0600698722 /* wildBooks-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "wildBooks-icon.png"; sourceTree = "<group>"; };
 		A457D82C15FA2BCF00698722 /* AddViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddViewController.h; sourceTree = "<group>"; };
 		A457D82D15FA2BCF00698722 /* AddViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddViewController.m; sourceTree = "<group>"; };
@@ -292,6 +294,7 @@
 				A457D87715FA339300698722 /* CoreMedia.framework */,
 				A457D87515FA338C00698722 /* AVFoundation.framework */,
 				A457D82415F93D0600698722 /* wildBooks-icon.png */,
+				A44D29871625DCE0009CA135 /* book-cover.png */,
 				A44D297C162477A5009CA135 /* grass.png */,
 				A4C76BB715F63AF100599B3B /* Wild */,
 				A4C76BB015F63AF100599B3B /* Frameworks */,
@@ -473,6 +476,7 @@
 				A45A10AB161B38DF00D0BF33 /* SettingsViewController.xib in Resources */,
 				A41F40F5161DE7E700D67976 /* WildItemCell.xib in Resources */,
 				A44D297D162477A5009CA135 /* grass.png in Resources */,
+				A44D29881625DCE0009CA135 /* book-cover.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

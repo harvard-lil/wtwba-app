@@ -12,5 +12,6 @@
 
 @property (strong, nonatomic) NSString *title;
 @property (strong, nonatomic) NSString *due;
+@property (strong, nonatomic) NSString *isbn;
 
 @end
