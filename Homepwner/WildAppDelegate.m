@@ -9,6 +9,11 @@
 #import "WildAppDelegate.h"
 #import "ItemsViewController.h"
 #import "BNRItemStore.h"
+#import <RestKit/RestKit.h>
+#import "WildUsageItem.h"
+#import "WildUsageItemStore.h"
+
+WildUsageItem *w;
 
 @implementation WildAppDelegate
 
@@ -56,11 +61,52 @@
 - (void)applicationDidBecomeActive:(UIApplication *)application
 {
     // Restart any tasks that were paused (or not yet started) while the application was inactive. If the application was previously in the background, optionally refresh the user interface.
+    [self logUsage];
 }
 
 - (void)applicationWillTerminate:(UIApplication *)application
 {
     // Called when the application is about to terminate. Save data if appropriate. See also applicationDidEnterBackground:.
+}
+
+- (void)logUsage {
+    NSLog(@"Logging any stray usage");
+    NSURL *posturl = [NSURL URLWithString:@"http://hlsl10.law.harvard.edu/dev/annie/wtwba/receive.php"];
+    _client = [[RKClient alloc] initWithBaseURL:posturl];
+	
+    int usageItems = [[[WildUsageItemStore sharedStore] allItems] count];
+    if(usageItems > 0)
+    {
+        for(int n = 0; n < usageItems; n = n + 1)
+        {
+            w = [[[WildUsageItemStore sharedStore] allItems]
+                 objectAtIndex:n];
+            
+            NSDate* dateCreated = [w dateCreated];
+            NSDateFormatter* dateFormatter = [[NSDateFormatter alloc] init];
+            [dateFormatter setDateFormat:@"yyyy-MM-dd HH:mm:ss"];
+            NSString* dateString = [dateFormatter stringFromDate:dateCreated];
+            
+            NSMutableDictionary* params = [[NSMutableDictionary alloc] init];
+            [params setObject:[w barcode] forKey:@"barcode"];
+            [params setObject:dateString forKey:@"date"];
+            [params setObject:[w location] forKey:@"location"];
+            [params setObject:[w user] forKey:@"user"];
+            NSLog(@"%@", params);
+            [_client post:@"" params:params delegate:self];
+        }
+    }
+}
+
+- (void)request:(RKRequest*)request didLoadResponse:
+(RKResponse*)response {
+	WildUsageItemStore *ws = [WildUsageItemStore sharedStore];
+    [ws removeItem:w];
+    NSLog(@"Posted and removed");
+}
+
+- (void)request:(RKRequest*)request didFailLoadWithError:(NSError *)error {
+	NSLog(@"No data sent, oh noes!");
 }
 
 @end

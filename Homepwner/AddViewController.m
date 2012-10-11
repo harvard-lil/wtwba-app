@@ -172,14 +172,17 @@ NSString *barcode;
     [libraryBookMapping mapKeyPathsToAttributes:@"isbn", @"isbn", nil];
     [_objectManager.mappingProvider setMapping:libraryBookMapping forKeyPath:@""];
     
-    //[self sendRequest];
-    NSString *userID = symbol.data;
+    NSUserDefaults *prefs = [NSUserDefaults standardUserDefaults];
     
-    NSDictionary *queryParams;
-    queryParams = [NSDictionary dictionaryWithObjectsAndKeys:userID, @"barcode", nil];
+    // getting an NSString
+    NSString *userID = [prefs stringForKey:@"UserIDPrefKey"];
+    
+    NSMutableDictionary* params = [[NSMutableDictionary alloc] init];
+    [params setObject:barcode forKey:@"barcode"];
+	[params setObject:userID forKey:@"user"];
     //RKObjectManager *objectManager = [RKObjectManager sharedManager];
     
-    RKURL *URL = [RKURL URLWithBaseURL:[_objectManager baseURL] resourcePath:@"" queryParameters:queryParams];
+    RKURL *URL = [RKURL URLWithBaseURL:[_objectManager baseURL] resourcePath:@"" queryParameters:params];
     [_objectManager loadObjectsAtResourcePath:[NSString stringWithFormat:@"%@?%@", [URL resourcePath], [URL query]] delegate:self];
     
     // ADD: dismiss the controller (NB dismiss from the *reader*!)

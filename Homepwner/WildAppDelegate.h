@@ -7,8 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <RestKit/RestKit.h> 
 
-@interface WildAppDelegate : UIResponder <UIApplicationDelegate>
+@interface WildAppDelegate : UIResponder <UIApplicationDelegate, RKRequestDelegate>
+{
+    RKClient *_client;
+}
 
 @property (strong, nonatomic) UIWindow *window;
 
