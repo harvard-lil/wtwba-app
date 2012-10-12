@@ -137,10 +137,14 @@ WildUsageItem *w;
         NSDateFormatter *dateFormatter = [[NSDateFormatter alloc] init];
         [dateFormatter setDateStyle:NSDateFormatterMediumStyle];
         [dateFormatter setTimeStyle:NSDateFormatterNoStyle];
-        // Use filtered NSDate object to set dateLabel contents
-        //resultText.text = [dateFormatter stringFromDate:dueDate];
-        [[cell dueDateLabel] setText:[dateFormatter stringFromDate:[p dateCreated]]];
-    
+        NSString *dueDateStringRaw = [dateFormatter stringFromDate:[p dateCreated]];
+        [[cell dueDateLabel] setText:dueDateStringRaw];
+        if([dueDateStringRaw isEqualToString:@"Dec 30, 1999"]){
+            cell.dueDateLabel.text = @"";
+            cell.daysUntilDueLabel.text = @"No due date";
+            cell.daysUntilDueLabel.textColor = [UIColor lightGrayColor];
+        }
+        else {
         NSDateFormatter *formatter = [[NSDateFormatter alloc] init];
         [formatter setDateFormat:@"dd-MM-yyyy"];
         NSDate *startDate = [NSDate date];
@@ -156,6 +160,7 @@ WildUsageItem *w;
         cell.daysUntilDueLabel.text = dueDateString;
         if([difference day] <= 5) {
             cell.daysUntilDueLabel.textColor = [UIColor orangeColor];
+        }
         }
     }
     else {
@@ -175,6 +180,7 @@ WildUsageItem *w;
     } else {
         // Clear the imageView
         //[cell.imageView setImage:[UIImage imageNamed:@"book-cover.png"]];
+        [cell.imageView setImage:nil];
     }
     return cell;
 }
